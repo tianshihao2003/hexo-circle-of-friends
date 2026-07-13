@@ -277,6 +277,12 @@ link_page_rules:
         link: [{ selector: "a.cf-friends-link", attr: "cf-href" }],
         avatar: [{ selector: ".cf-friends-avatar", attr: "cf-src" }],
       },
+    firefly:
+      {
+        author: [{ selector: ".friend-card-name", attr: "text" }],
+        link: [{ selector: ".friend-card-link", attr: "href" }],
+        avatar: [{ selector: ".friend-card-avatar__img", attr: "data-src" }],
+      },
     common1:
       {
         author: [{ selector: ".cf-friends a", attr: "text" }],
