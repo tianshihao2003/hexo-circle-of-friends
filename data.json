@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 0,
-    "active_num": 0,
-    "error_num": 0,
+    "friends_num": 25,
+    "active_num": 18,
+    "error_num": 7,
     "article_num": 90,
-    "last_updated_time": "2026-07-19 03:06:54"
+    "last_updated_time": "2026-07-19 06:52:30"
   },
   "article_data": [
     {
