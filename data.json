@@ -4,7 +4,7 @@
     "active_num": 21,
     "error_num": 9,
     "article_num": 116,
-    "last_updated_time": "2026-07-22 21:58:27"
+    "last_updated_time": "2026-07-22 23:46:48"
   },
   "article_data": [
     {
@@ -90,19 +90,19 @@
     },
     {
       "floor": 10,
-      "title": "ES6语法学习day1之 let",
+      "title": "ES6语法学习day2之暂时性死区",
       "created": "2026-07-01",
       "updated": "2026-07-22",
-      "link": "https://xfcnl.github.io/tech/2026-07-01-ES6%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0day1%E4%B9%8B%20let/",
+      "link": "https://xfcnl.github.io/tech/2026-07-01-ES6%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0day2%E4%B9%8B%E6%9A%82%E6%97%B6%E6%80%A7%E6%AD%BB%E5%8C%BA/",
       "author": "xf_blog",
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
       "floor": 11,
-      "title": "ES6语法学习day2之暂时性死区",
+      "title": "ES6语法学习day1之 let",
       "created": "2026-07-01",
       "updated": "2026-07-22",
-      "link": "https://xfcnl.github.io/tech/2026-07-01-ES6%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0day2%E4%B9%8B%E6%9A%82%E6%97%B6%E6%80%A7%E6%AD%BB%E5%8C%BA/",
+      "link": "https://xfcnl.github.io/tech/2026-07-01-ES6%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0day1%E4%B9%8B%20let/",
       "author": "xf_blog",
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
