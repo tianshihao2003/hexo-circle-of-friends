@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 31,
-    "active_num": 22,
-    "error_num": 9,
-    "article_num": 140,
-    "last_updated_time": "2026-07-28 07:03:28"
+    "active_num": 23,
+    "error_num": 8,
+    "article_num": 139,
+    "last_updated_time": "2026-07-28 10:37:01"
   },
   "article_data": [
     {
@@ -306,15 +306,6 @@
     },
     {
       "floor": 34,
-      "title": "液态玻璃：CSS和SVG的折射",
-      "created": "2026-07-23",
-      "updated": "2026-07-23",
-      "link": "https://blog.xuioo.com/posts/liquid-glass-css-svg-723/",
-      "author": "Aimerting",
-      "avatar": "https://blog.xuioo.com/avatar.jpg"
-    },
-    {
-      "floor": 35,
       "title": "firefly | 魔改总结",
       "created": "2026-07-23",
       "updated": "2026-07-23",
@@ -323,7 +314,7 @@
       "avatar": "https://i.stardots.io/784774835/StarDots-2026052116374135506.jpg"
     },
     {
-      "floor": 36,
+      "floor": 35,
       "title": "无需服务器，让文件在各个设备自由流转——LocalSend",
       "created": "2026-07-23",
       "updated": "2026-07-23",
@@ -332,7 +323,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 37,
+      "floor": 36,
       "title": "博客，是好看好，还是简单好？",
       "created": "2026-07-23",
       "updated": "2026-07-23",
@@ -341,16 +332,16 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640"
     },
     {
-      "floor": 38,
-      "title": "Twikoo 评论区重大事故复盘",
-      "created": "2026-07-22",
-      "updated": "2026-07-22",
-      "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
+      "floor": 37,
+      "title": "液态玻璃：CSS和SVG的折射",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "link": "https://blog.xuioo.com/posts/liquid-glass-css-svg-723/",
       "author": "Aimerting",
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 39,
+      "floor": 38,
       "title": "Ethereal主题，发布了",
       "created": "2026-07-22",
       "updated": "2026-07-22",
@@ -359,7 +350,7 @@
       "avatar": "https://www.nannax.top/upload/avatar.jpg"
     },
     {
-      "floor": 40,
+      "floor": 39,
       "title": "零成本搭建自己的影视库Quonnki项目",
       "created": "2026-07-22",
       "updated": "2026-07-22",
@@ -368,7 +359,7 @@
       "avatar": "https://mingcy.cn/image/mcy.png"
     },
     {
-      "floor": 41,
+      "floor": 40,
       "title": "QwenPwa免费的VPS并获取root教程",
       "created": "2026-07-22",
       "updated": "2026-07-22",
@@ -377,16 +368,16 @@
       "avatar": "https://mingcy.cn/image/mcy.png"
     },
     {
-      "floor": 42,
-      "title": "如何与你的 AI 沟通（无限续杯）",
-      "created": "2026-07-21",
-      "updated": "2026-07-21",
-      "link": "https://blog.xuioo.com/posts/use-agent-721/",
+      "floor": 41,
+      "title": "Twikoo 评论区重大事故复盘",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "link": "https://blog.xuioo.com/posts/apology-for-twikoo-722/",
       "author": "Aimerting",
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 43,
+      "floor": 42,
       "title": "今天是伟大的0721日",
       "created": "2026-07-21",
       "updated": "2026-07-21",
@@ -395,7 +386,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 44,
+      "floor": 43,
       "title": "域名备案中，部分组件和服务可能无法使用",
       "created": "2026-07-20",
       "updated": "2026-07-21",
@@ -404,13 +395,22 @@
       "avatar": "https://blog.seln.cn/img/ico.jpg"
     },
     {
-      "floor": 45,
+      "floor": 44,
       "title": "「说说」umami莫名其妙寄了(悲",
       "created": "2026-07-21",
       "updated": "2026-07-21",
       "link": "https://upxuu.com/talk/2026-07-22-umami%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%AF%84%E4%BA%86%E6%82%B2/",
       "author": "UpXuu's blog",
       "avatar": "https://upxuu.com/images/me.jpg"
+    },
+    {
+      "floor": 45,
+      "title": "如何与你的 AI 沟通（无限续杯）",
+      "created": "2026-07-21",
+      "updated": "2026-07-21",
+      "link": "https://blog.xuioo.com/posts/use-agent-721/",
+      "author": "Aimerting",
+      "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
       "floor": 46,
@@ -450,24 +450,6 @@
     },
     {
       "floor": 50,
-      "title": "微信内置浏览器 MP4 无法自动播放",
-      "created": "2026-07-20",
-      "updated": "2026-07-20",
-      "link": "https://blog.xuioo.com/posts/wechat-mp4-720/",
-      "author": "Aimerting",
-      "avatar": "https://blog.xuioo.com/avatar.jpg"
-    },
-    {
-      "floor": 51,
-      "title": "自研技术：XO 通讯",
-      "created": "2026-07-20",
-      "updated": "2026-07-20",
-      "link": "https://blog.xuioo.com/posts/xo-chat-720/",
-      "author": "Aimerting",
-      "avatar": "https://blog.xuioo.com/avatar.jpg"
-    },
-    {
-      "floor": 52,
       "title": "什么是Agent，它能干什么",
       "created": "2026-06-11",
       "updated": "2026-07-20",
@@ -476,13 +458,31 @@
       "avatar": "https://blog.seln.cn/img/ico.jpg"
     },
     {
-      "floor": 53,
+      "floor": 51,
       "title": "利用Notion笔记和NotionNext免费搭建博客",
       "created": "2026-07-20",
       "updated": "2026-07-20",
       "link": "https://www.jerry-nis.top/posts/notion-blog/notion-blog/",
       "author": "JerryLife",
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
+    },
+    {
+      "floor": 52,
+      "title": "微信内置浏览器 MP4 无法自动播放",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "link": "https://blog.xuioo.com/posts/wechat-mp4-720/",
+      "author": "Aimerting",
+      "avatar": "https://blog.xuioo.com/avatar.jpg"
+    },
+    {
+      "floor": 53,
+      "title": "自研技术：XO 通讯",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "link": "https://blog.xuioo.com/posts/xo-chat-720/",
+      "author": "Aimerting",
+      "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
       "floor": 54,
@@ -1257,15 +1257,6 @@
       "link": "https://blog.june-pj.cn/posts/bb5f023d/",
       "author": "June's Blog",
       "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
-    },
-    {
-      "floor": 140,
-      "title": "为网站添加音乐库和照片站点",
-      "created": "2026-05-28",
-      "updated": "2026-05-28",
-      "link": "https://blog.minecraftglz.top/archives/add_music%26pics_to_ur_web",
-      "author": "Landigo's Garden",
-      "avatar": "https://blog.minecraftglz.top/upload/site-icon-150x150.png?width=1600"
     }
   ]
 }
