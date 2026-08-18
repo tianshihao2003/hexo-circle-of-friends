@@ -279,8 +279,8 @@ link_page_rules:
       },
     firefly:
       {
-        author: [{ selector: ".friend-card-name", attr: "text" }],
-        link: [{ selector: ".friend-card-link", attr: "href" }],
+        author: [{ selector: ".friend-card", attr: "data-title" }],
+        link: [{ selector: ".friend-card", attr: "data-siteurl" }],
         avatar: [{ selector: ".friend-card-avatar__img", attr: "data-src" }],
       },
     common1:
