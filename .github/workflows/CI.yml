@@ -147,7 +147,7 @@ jobs:
           files: dist/${{ matrix.name }}.zip
 
   build-and-run-core:
-    if: ${{ github.ref_type != 'tag' && github.repository != 'Rock-Candy-Tea/hexo-circle-of-friends' }}
+    if: ${{ github.ref_type != 'tag' && github.repository == 'tianshihao2003/hexo-circle-of-friends' }}
     # needs: [check, test-versions]
     name: build and run core
     runs-on: ubuntu-latest
