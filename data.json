@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 43,
-    "active_num": 28,
-    "error_num": 15,
+    "active_num": 27,
+    "error_num": 16,
     "article_num": 280,
-    "last_updated_time": "2026-08-24 22:43:27"
+    "last_updated_time": "2026-08-25 00:38:58"
   },
   "article_data": [
     {
@@ -117,15 +117,6 @@
     },
     {
       "floor": 13,
-      "title": "主题合并排错记：git 误删工作树、架构漂移与 CSS 三连击",
-      "created": "2026-08-22",
-      "updated": "2026-08-22",
-      "link": "https://x1anyu.cn/posts/9/",
-      "author": "临渊羡鱼",
-      "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
-    },
-    {
-      "floor": 14,
       "title": "电脑使用教程大全：从入门到精通的实用指南",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -134,7 +125,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 15,
+      "floor": 14,
       "title": "天籁之界服务器玩家守则",
       "created": "2026-07-21",
       "updated": "2026-08-22",
@@ -143,13 +134,22 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 16,
+      "floor": 15,
       "title": "天籁之界服务器问题反馈及建议",
       "created": "2026-07-25",
       "updated": "2026-08-22",
       "link": "https://xn--9krq6q.xn--vqqq8jxym.ink/test/",
       "author": "万物皆可写",
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
+    },
+    {
+      "floor": 16,
+      "title": "主题合并排错记：git 误删工作树、架构漂移与 CSS 三连击",
+      "created": "2026-08-22",
+      "updated": "2026-08-22",
+      "link": "https://x1anyu.cn/posts/9/",
+      "author": "临渊羡鱼",
+      "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
       "floor": 17,
