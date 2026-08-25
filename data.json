@@ -4,7 +4,7 @@
     "active_num": 29,
     "error_num": 14,
     "article_num": 295,
-    "last_updated_time": "2026-08-26 04:30:15"
+    "last_updated_time": "2026-08-26 06:31:49"
   },
   "article_data": [
     {
@@ -126,6 +126,15 @@
     },
     {
       "floor": 14,
+      "title": "正版steam安装包",
+      "created": "2026-07-26",
+      "updated": "2026-08-24",
+      "link": "https://xn--9krq6q.xn--vqqq8jxym.ink/%e6%ad%a3%e7%89%88steam%e5%ae%89%e8%a3%85%e5%8c%85/",
+      "author": "万物皆可写",
+      "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
+    },
+    {
+      "floor": 15,
       "title": "Cloudflare Worker 反代 TMDB：国内服务器也能稳定获取影视封面",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -134,7 +143,7 @@
       "avatar": "https://s1.imagehub.cc/images/2025/12/06/28380affd86b014a6dcaf082fcc97064.png"
     },
     {
-      "floor": 15,
+      "floor": 16,
       "title": "Cloudflare Worker 反代 TMDB：国内服务器也能稳定获取影视封面",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -143,7 +152,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 16,
+      "floor": 17,
       "title": "The Best Search Engine Reviews: In-Depth Tests & Comparisons",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -152,7 +161,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 17,
+      "floor": 18,
       "title": "博客大更新",
       "created": "2026-08-06",
       "updated": "2026-08-22",
@@ -161,7 +170,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 18,
+      "floor": 19,
       "title": "测试",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -170,7 +179,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 19,
+      "floor": 20,
       "title": "Astro + Firefly: The Best Combo for Personal Blog",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -179,7 +188,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 20,
+      "floor": 21,
       "title": "电脑使用教程大全：从入门到精通的实用指南",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -188,7 +197,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 21,
+      "floor": 22,
       "title": "主题合并排错记：git 误删工作树、架构漂移与 CSS 三连击",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -197,7 +206,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 22,
+      "floor": 23,
       "title": "Astro + Firefly: The Best Combo for Personal Blog",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -206,7 +215,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 23,
+      "floor": 24,
       "title": "「说说」3秒删掉此电脑里的钉子户网盘",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -215,7 +224,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 24,
+      "floor": 25,
       "title": "广西什么**网",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -224,7 +233,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 25,
+      "floor": 26,
       "title": "用 Linux 遇到的问题",
       "created": "2026-08-20",
       "updated": "2026-08-22",
@@ -233,7 +242,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 26,
+      "floor": 27,
       "title": "wdf，火车上有邪教！！！",
       "created": "2026-08-16",
       "updated": "2026-08-22",
@@ -242,7 +251,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 27,
+      "floor": 28,
       "title": "Typeless，一款可以让你只动嘴、不动手的输入法，Typeless 初体验",
       "created": "2026-08-13",
       "updated": "2026-08-22",
@@ -251,7 +260,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 28,
+      "floor": 29,
       "title": "我鬼脑发力是如何找到 BA BWiki 是如何找到如何修改首页内容的",
       "created": "2026-08-08",
       "updated": "2026-08-22",
@@ -260,7 +269,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 29,
+      "floor": 30,
       "title": "从企业微信到QQ重构博客机器人",
       "created": "2026-08-21",
       "updated": "2026-08-21",
@@ -269,7 +278,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 30,
+      "floor": 31,
       "title": "Firefly魔改总结",
       "created": "2026-08-21",
       "updated": "2026-08-21",
@@ -278,7 +287,7 @@
       "avatar": "https://i.stardots.io/784774835/StarDots-2026052116374135506.jpg"
     },
     {
-      "floor": 31,
+      "floor": 32,
       "title": "dsh-toolcall-id：一个插件修好 dsh 的历史加载失败",
       "created": "2026-08-21",
       "updated": "2026-08-21",
@@ -287,7 +296,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 32,
+      "floor": 33,
       "title": "怎么让 dsh 无限重试",
       "created": "2026-08-21",
       "updated": "2026-08-21",
@@ -296,7 +305,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 33,
+      "floor": 34,
       "title": "0元首发？匿名模型 Ox Alpha 空降 OpenRouter！1M 上下文 + 多模态，疑似智谱出品|免费AI",
       "created": "2026-08-21",
       "updated": "2026-08-21",
@@ -305,7 +314,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 34,
+      "floor": 35,
       "title": "博客性能优化",
       "created": "2026-08-21",
       "updated": "2026-08-21",
@@ -314,7 +323,7 @@
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 35,
+      "floor": 36,
       "title": "震撼首发！英伟达推出免费kimi k3！且速度极快，白嫖界迎来巨变|nvida nim|免费AI",
       "created": "2026-08-20",
       "updated": "2026-08-20",
@@ -323,7 +332,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 36,
+      "floor": 37,
       "title": "「说说」第一次以这么猎奇的原因失眠...",
       "created": "2026-08-20",
       "updated": "2026-08-20",
@@ -332,7 +341,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 37,
+      "floor": 38,
       "title": "「说说」第一次以这么猎奇的原因失眠...",
       "created": "2026-08-20",
       "updated": "2026-08-20",
@@ -341,7 +350,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 38,
+      "floor": 39,
       "title": "关于朋友",
       "created": "2026-08-20",
       "updated": "2026-08-20",
@@ -350,7 +359,7 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 39,
+      "floor": 40,
       "title": "震撼首发！英伟达推出免费kimi k3！且速度极快，白嫖界迎来巨变|nvida nim|免费AI",
       "created": "2026-08-20",
       "updated": "2026-08-20",
@@ -359,7 +368,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 40,
+      "floor": 41,
       "title": "为毛助手接入 Emotion Ball 表情头：开关、状态映射与 emotionId 配置",
       "created": "2026-08-20",
       "updated": "2026-08-20",
@@ -368,7 +377,7 @@
       "avatar": "https://img.huchao.vip/file/avatar/1782805912195_7cf1163ce5b4c2783fc89f56e11124c1.jpg"
     },
     {
-      "floor": 41,
+      "floor": 42,
       "title": "EdgeOne-Pages-ImgBed，一个网页图床应用",
       "created": "2026-08-01",
       "updated": "2026-08-19",
@@ -377,7 +386,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 42,
+      "floor": 43,
       "title": "DeepSeek 涨价用量变少？别慌，OpenCode Go 这个 Muse Spark 1.2 直接平替还更强",
       "created": "2026-08-19",
       "updated": "2026-08-19",
@@ -386,7 +395,7 @@
       "avatar": "https://s1.imagehub.cc/images/2025/12/06/28380affd86b014a6dcaf082fcc97064.png"
     },
     {
-      "floor": 43,
+      "floor": 44,
       "title": "我把友链系统重做成了一套自动巡检 + 自助申请的玩意",
       "created": "2026-08-19",
       "updated": "2026-08-19",
@@ -395,7 +404,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 44,
+      "floor": 45,
       "title": "DeepSeek 涨价用量变少？别慌，OpenCode Go 这个 Muse Spark 1.2 直接平替还更强",
       "created": "2026-08-19",
       "updated": "2026-08-19",
@@ -404,7 +413,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 45,
+      "floor": 46,
       "title": "记一次博客收录优化：从 1 个页面到全部可收录",
       "created": "2026-08-19",
       "updated": "2026-08-19",
@@ -413,7 +422,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 46,
+      "floor": 47,
       "title": "开源推荐：把 QQ 机器人搬到 Hugging Face 免费跑（AstrBot + NapCat）",
       "created": "2026-08-19",
       "updated": "2026-08-19",
@@ -422,7 +431,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 47,
+      "floor": 48,
       "title": "苹果送我 Apple Music：一个月特摄歌曲搜索体验，让我果断弃用",
       "created": "2026-08-07",
       "updated": "2026-08-18",
@@ -431,7 +440,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 48,
+      "floor": 49,
       "title": "Python3基础知识",
       "created": "2026-08-18",
       "updated": "2026-08-18",
@@ -440,7 +449,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 49,
+      "floor": 50,
       "title": "Using Faillock to Manage Authentication Failure on Archlinux",
       "created": "2026-08-18",
       "updated": "2026-08-18",
@@ -449,25 +458,25 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 50,
+      "floor": 51,
       "title": "Python3 基本数据类型 | 菜鸟教程",
       "created": "2026-08-18",
       "updated": "2026-08-18",
       "link": "https://blog.tsh520.cn/posts/python/python3-%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B--%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/",
-      "author": "测试友链-AstrBot自动截图",
-      "avatar": "https://s1.imagehub.cc/images/2025/12/06/28380affd86b014a6dcaf082fcc97064.png"
-    },
-    {
-      "floor": 51,
-      "title": "Python3 简介",
-      "created": "2026-08-18",
-      "updated": "2026-08-18",
-      "link": "https://blog.tsh520.cn/posts/python/python3%E5%85%A5%E9%97%A8%E9%85%8D%E7%BD%AE/",
       "author": "测试友链-AstrBot自动截图",
       "avatar": "https://s1.imagehub.cc/images/2025/12/06/28380affd86b014a6dcaf082fcc97064.png"
     },
     {
       "floor": 52,
+      "title": "Python3 简介",
+      "created": "2026-08-18",
+      "updated": "2026-08-18",
+      "link": "https://blog.tsh520.cn/posts/python/python3%E5%85%A5%E9%97%A8%E9%85%8D%E7%BD%AE/",
+      "author": "测试友链-AstrBot自动截图",
+      "avatar": "https://s1.imagehub.cc/images/2025/12/06/28380affd86b014a6dcaf082fcc97064.png"
+    },
+    {
+      "floor": 53,
       "title": "Python3 基本数据类型 | 菜鸟教程",
       "created": "2026-08-18",
       "updated": "2026-08-18",
@@ -476,7 +485,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 53,
+      "floor": 54,
       "title": "Python3 简介",
       "created": "2026-08-18",
       "updated": "2026-08-18",
@@ -485,7 +494,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 54,
+      "floor": 55,
       "title": "黄盈盈｜跨国视野下的身体与性／别：加拿大中国移民的“中西方”想象",
       "created": "2026-08-18",
       "updated": "2026-08-18",
@@ -494,7 +503,7 @@
       "avatar": "https://blog.minecraftglz.top/upload/site-icon-150x150.png?width=1600"
     },
     {
-      "floor": 55,
+      "floor": 56,
       "title": "无服务器部署 AstrBot：Hugging Face 免费方案",
       "created": "2026-08-18",
       "updated": "2026-08-18",
@@ -503,7 +512,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 56,
+      "floor": 57,
       "title": "Using Faillock to Manage Authentication Failure on Archlinux",
       "created": "2026-08-18",
       "updated": "2026-08-18",
@@ -512,7 +521,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 57,
+      "floor": 58,
       "title": "「说说」lcrworld 和 lcr99 喵～",
       "created": "2026-08-17",
       "updated": "2026-08-17",
@@ -521,7 +530,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 58,
+      "floor": 59,
       "title": "论我是怎么活到这么大的",
       "created": "2026-08-17",
       "updated": "2026-08-17",
@@ -530,7 +539,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 59,
+      "floor": 60,
       "title": "论我是怎么活到这么大的",
       "created": "2026-08-17",
       "updated": "2026-08-17",
@@ -539,7 +548,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 60,
+      "floor": 61,
       "title": "「说说」lcrworld 和 lcr99 喵～",
       "created": "2026-08-17",
       "updated": "2026-08-17",
@@ -548,7 +557,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 61,
+      "floor": 62,
       "title": "DeepSeek Harness安装使用及美化教程",
       "created": "2026-08-16",
       "updated": "2026-08-16",
@@ -557,7 +566,7 @@
       "avatar": "https://mingcy.cn/image/mcy.png"
     },
     {
-      "floor": 62,
+      "floor": 63,
       "title": "为什么upxuu 不发朋友圈",
       "created": "2026-08-16",
       "updated": "2026-08-16",
@@ -566,7 +575,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 63,
+      "floor": 64,
       "title": "为什么upxuu 不发朋友圈",
       "created": "2026-08-16",
       "updated": "2026-08-16",
@@ -575,7 +584,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 64,
+      "floor": 65,
       "title": "48个音标",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -584,7 +593,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 65,
+      "floor": 66,
       "title": "Python3学习笔记",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -593,7 +602,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 66,
+      "floor": 67,
       "title": "Git的命令学习记录",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -602,7 +611,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 67,
+      "floor": 68,
       "title": "微信阅读插件主题模板",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -611,7 +620,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 68,
+      "floor": 69,
       "title": "The Power of Imagemagick: A Small Yet Functional Image Editor.",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -620,7 +629,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 69,
+      "floor": 70,
       "title": "如何搭建企业微信机器人，用机器人发博文、动态",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -629,7 +638,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 70,
+      "floor": 71,
       "title": "The Power of Imagemagick: A Small Yet Functional Image Editor.",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -638,7 +647,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 71,
+      "floor": 72,
       "title": "华东政法大学 · 演讲",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -647,7 +656,7 @@
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 72,
+      "floor": 73,
       "title": "How to Test Your SD Card?如何测试你的SD卡？",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -656,7 +665,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 73,
+      "floor": 74,
       "title": "博客增加时段问候实时时钟组件",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -665,7 +674,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 74,
+      "floor": 75,
       "title": "给你的静态博客网站增加管理后台",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -674,7 +683,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 75,
+      "floor": 76,
       "title": "vercel优化冷知识",
       "created": "2026-08-14",
       "updated": "2026-08-14",
@@ -683,7 +692,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 76,
+      "floor": 77,
       "title": "headless Chrome 截图 WebGL 黑块问题排查",
       "created": "2026-08-14",
       "updated": "2026-08-14",
@@ -692,7 +701,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 77,
+      "floor": 78,
       "title": "将服务器交给AI：WorkBuddy 接入宝塔面板 MCP 实战指南",
       "created": "2026-08-14",
       "updated": "2026-08-14",
@@ -701,7 +710,7 @@
       "avatar": "https://www.nannax.top/upload/avatar.jpg"
     },
     {
-      "floor": 78,
+      "floor": 79,
       "title": "自定义侧边栏组件操作步骤",
       "created": "2026-08-14",
       "updated": "2026-08-14",
@@ -710,7 +719,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 79,
+      "floor": 80,
       "title": "DeepSeek V4 Pro 0813正式版上线了！真的变聪明了~",
       "created": "2026-08-13",
       "updated": "2026-08-13",
@@ -719,7 +728,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 80,
+      "floor": 81,
       "title": "什么？你的vercel还没深绿？一文研究透vercel优选|缓存配置",
       "created": "2026-08-13",
       "updated": "2026-08-13",
@@ -728,7 +737,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 81,
+      "floor": 82,
       "title": "用企业微信机器人发博文、动态",
       "created": "2026-08-13",
       "updated": "2026-08-13",
@@ -737,7 +746,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 82,
+      "floor": 83,
       "title": "MoePal-一款多平台的综合网盘管理、加速下载工具",
       "created": "2026-08-13",
       "updated": "2026-08-13",
@@ -746,7 +755,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 83,
+      "floor": 84,
       "title": "你的vercel项目，还能更快",
       "created": "2026-08-12",
       "updated": "2026-08-12",
@@ -755,7 +764,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 84,
+      "floor": 85,
       "title": "博客 Bug 修复合集",
       "created": "2026-08-12",
       "updated": "2026-08-12",
@@ -764,7 +773,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 85,
+      "floor": 86,
       "title": "ceshiwenzhang",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -773,7 +782,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 86,
+      "floor": 87,
       "title": "把博客后台搬进微信：随手一条消息就能发动态、笔记、足迹",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -782,7 +791,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 87,
+      "floor": 88,
       "title": "butterfly安装rss插件",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -791,7 +800,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 88,
+      "floor": 89,
       "title": "VitePress 集成 Giscus 评论插件",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -800,7 +809,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 89,
+      "floor": 90,
       "title": "Firefly 博客部署教程",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -809,7 +818,7 @@
       "avatar": "https://img.z2m.store/file/public/1778862620159_g.png"
     },
     {
-      "floor": 90,
+      "floor": 91,
       "title": "DeepSeek 没有图片识别功能？自己给它加一个",
       "created": "2026-08-10",
       "updated": "2026-08-10",
@@ -818,7 +827,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 91,
+      "floor": 92,
       "title": "手把手教你用 EdgeOne 加速 Vercel 部署的项目（源站域名分离法）",
       "created": "2026-08-10",
       "updated": "2026-08-10",
@@ -827,7 +836,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 92,
+      "floor": 93,
       "title": "聊聊 TDM 是什么：文本扩散模型，像生成图片一样生成文章",
       "created": "2026-08-07",
       "updated": "2026-08-10",
@@ -836,7 +845,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 93,
+      "floor": 94,
       "title": "利用自己的域名+Cloudflare+Resend搭建属于自己的域名邮箱，实现零成本收发邮件功能",
       "created": "2026-08-10",
       "updated": "2026-08-10",
@@ -845,7 +854,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 94,
+      "floor": 95,
       "title": "啊？",
       "created": "2026-08-02",
       "updated": "2026-08-09",
@@ -854,7 +863,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 95,
+      "floor": 96,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-07-28",
       "updated": "2026-08-09",
@@ -863,7 +872,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 96,
+      "floor": 97,
       "title": "我鬼脑发力是如何找到 BA BWiki 是如何找到如何修改首页内容的",
       "created": "2026-08-07",
       "updated": "2026-08-09",
@@ -872,7 +881,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 97,
+      "floor": 98,
       "title": "博客大更新",
       "created": "2026-08-05",
       "updated": "2026-08-09",
@@ -881,7 +890,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 98,
+      "floor": 99,
       "title": "EdgeOne-Pages-ImgBed，一个网页图床应用",
       "created": "2026-07-31",
       "updated": "2026-08-09",
@@ -890,7 +899,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 99,
+      "floor": 100,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-07-27",
       "updated": "2026-08-09",
@@ -899,7 +908,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 100,
+      "floor": 101,
       "title": "OlivOS:强大的跨平台机器人框架",
       "created": "2026-08-09",
       "updated": "2026-08-09",
@@ -908,7 +917,7 @@
       "avatar": "https://img.yorutubasa.top/i/2026/08/09/6a783c1d0812c.jpg"
     },
     {
-      "floor": 101,
+      "floor": 102,
       "title": "LLBot:新一代 QQ 机器人框架",
       "created": "2026-08-09",
       "updated": "2026-08-09",
@@ -917,7 +926,7 @@
       "avatar": "https://img.yorutubasa.top/i/2026/08/09/6a783c1d0812c.jpg"
     },
     {
-      "floor": 102,
+      "floor": 103,
       "title": "NapCatQQ:新一代 QQ 机器人协议实现",
       "created": "2026-08-09",
       "updated": "2026-08-09",
@@ -926,7 +935,7 @@
       "avatar": "https://img.yorutubasa.top/i/2026/08/09/6a783c1d0812c.jpg"
     },
     {
-      "floor": 103,
+      "floor": 104,
       "title": "AstrBot:开源多功能机器人框架",
       "created": "2026-08-09",
       "updated": "2026-08-09",
@@ -935,7 +944,7 @@
       "avatar": "https://img.yorutubasa.top/i/2026/08/09/6a783c1d0812c.jpg"
     },
     {
-      "floor": 104,
+      "floor": 105,
       "title": "Docker 入门与实践:从零理解容器化部署",
       "created": "2026-08-09",
       "updated": "2026-08-09",
@@ -944,7 +953,7 @@
       "avatar": "https://img.yorutubasa.top/i/2026/08/09/6a783c1d0812c.jpg"
     },
     {
-      "floor": 105,
+      "floor": 106,
       "title": "我鬼脑发力是如何找到 BA BWiki 是如何找到如何修改首页内容的",
       "created": "2026-08-08",
       "updated": "2026-08-09",
@@ -953,7 +962,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 106,
+      "floor": 107,
       "title": "啊？",
       "created": "2026-08-01",
       "updated": "2026-08-09",
@@ -962,7 +971,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 107,
+      "floor": 108,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-07-28",
       "updated": "2026-08-09",
@@ -971,7 +980,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 108,
+      "floor": 109,
       "title": "35 块钱的 AI 编程订阅，我从早用到晚，进度条都不带动一下",
       "created": "2026-08-08",
       "updated": "2026-08-08",
@@ -980,7 +989,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 109,
+      "floor": 110,
       "title": "CloudFlare-ImgBed 系列：WebDAV + WinSCP 本地备份 Telegram 图片",
       "created": "2026-08-08",
       "updated": "2026-08-08",
@@ -989,7 +998,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 110,
+      "floor": 111,
       "title": "OpenCode Go 接入 CC Switch：Claude Code 原生 API 格式配置教程",
       "created": "2026-08-08",
       "updated": "2026-08-08",
@@ -998,7 +1007,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 111,
+      "floor": 112,
       "title": "利用AI制作自己的工作台",
       "created": "2026-08-08",
       "updated": "2026-08-08",
@@ -1007,7 +1016,7 @@
       "avatar": "https://mingcy.cn/image/mcy.png"
     },
     {
-      "floor": 112,
+      "floor": 113,
       "title": "给博客接入一言（Hitokoto）：四种展示位的统一思路",
       "created": "2026-08-08",
       "updated": "2026-08-08",
@@ -1016,7 +1025,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 113,
+      "floor": 114,
       "title": "给博客加了在线编辑器，改内容再也不用开编辑器了",
       "created": "2026-08-08",
       "updated": "2026-08-08",
@@ -1025,7 +1034,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 114,
+      "floor": 115,
       "title": "给博客侧边栏加了个 Umami 访问统计卡片",
       "created": "2026-08-08",
       "updated": "2026-08-08",
@@ -1034,7 +1043,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 115,
+      "floor": 116,
       "title": "为了在博客显示我的b站动态，我都干了什么",
       "created": "2026-07-24",
       "updated": "2026-08-07",
@@ -1043,7 +1052,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 116,
+      "floor": 117,
       "title": "使用 PagesCMS 给静态博客接入后台",
       "created": "2026-08-07",
       "updated": "2026-08-07",
@@ -1052,7 +1061,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 117,
+      "floor": 118,
       "title": "吃个肉片都被骂：晚上散步的时候吃肉脯，遭陌生人鄙视的目光",
       "created": "2026-08-05",
       "updated": "2026-08-07",
@@ -1061,7 +1070,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 118,
+      "floor": 119,
       "title": "到底是谁说 AI 无敌的：AI 集体降智后，DeepSeek 让我彻底摆烂",
       "created": "2026-08-05",
       "updated": "2026-08-07",
@@ -1070,7 +1079,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 119,
+      "floor": 120,
       "title": "Vercel 部署后全站 404 排查记",
       "created": "2026-08-07",
       "updated": "2026-08-07",
@@ -1079,7 +1088,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 120,
+      "floor": 121,
       "title": "上线了：一个用 Web Audio + Three.js 做的 3D 音乐可视化页面",
       "created": "2026-08-07",
       "updated": "2026-08-07",
@@ -1088,7 +1097,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 121,
+      "floor": 122,
       "title": "「说说」偶然发现，cloudflare竟然还在这里保护着我们",
       "created": "2026-08-06",
       "updated": "2026-08-06",
@@ -1097,7 +1106,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 122,
+      "floor": 123,
       "title": "当一个喜欢coding的博主重操旧业写了首歌",
       "created": "2026-08-06",
       "updated": "2026-08-06",
@@ -1106,7 +1115,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 123,
+      "floor": 124,
       "title": "AxonHub - 多模型API智能路由网关",
       "created": "2026-08-06",
       "updated": "2026-08-06",
@@ -1115,7 +1124,7 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "floor": 124,
+      "floor": 125,
       "title": "又去了一趟市民公园：重游茂名市民公园，记忆里的林子还在吗",
       "created": "2026-08-02",
       "updated": "2026-08-05",
@@ -1124,7 +1133,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 125,
+      "floor": 126,
       "title": "备份你的 Waline 评论：备份评论，借助 GitHub 定时执行任务",
       "created": "2026-08-05",
       "updated": "2026-08-05",
@@ -1133,7 +1142,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 126,
+      "floor": 127,
       "title": "macOS 运行 Photon 光影：Photon 无法运行？可能需要这篇教程",
       "created": "2026-08-02",
       "updated": "2026-08-05",
@@ -1142,7 +1151,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 127,
+      "floor": 128,
       "title": "搅拌机杂事：家有搅拌机闲置七年，当心霉菌毒素混进包子馅",
       "created": "2026-08-02",
       "updated": "2026-08-05",
@@ -1151,7 +1160,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 128,
+      "floor": 129,
       "title": "给博客侧边栏加了个每日一言，每天一句不重样",
       "created": "2026-08-05",
       "updated": "2026-08-05",
@@ -1160,7 +1169,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 129,
+      "floor": 130,
       "title": "他们拿走了仓库，也拿走了我们的往昔，却拿不走真正为自由而奋勇向前的开源社区——weflow遭下架有感",
       "created": "2026-08-05",
       "updated": "2026-08-05",
@@ -1169,7 +1178,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 130,
+      "floor": 131,
       "title": "怎么用Netlify反代",
       "created": "2026-08-05",
       "updated": "2026-08-05",
@@ -1178,7 +1187,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 131,
+      "floor": 132,
       "title": "给博客侧边栏加一个天气组件",
       "created": "2026-08-05",
       "updated": "2026-08-05",
@@ -1187,7 +1196,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 132,
+      "floor": 133,
       "title": "给博客加了 AI 摘要卡片",
       "created": "2026-08-05",
       "updated": "2026-08-05",
@@ -1196,7 +1205,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 133,
+      "floor": 134,
       "title": "测试一下后台渲染",
       "created": "2026-08-04",
       "updated": "2026-08-04",
@@ -1205,7 +1214,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 134,
+      "floor": 135,
       "title": "「说说」蹬上 opencode go 了",
       "created": "2026-08-04",
       "updated": "2026-08-04",
@@ -1214,7 +1223,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 135,
+      "floor": 136,
       "title": "电赛寄录",
       "created": "2026-08-04",
       "updated": "2026-08-04",
@@ -1223,7 +1232,7 @@
       "avatar": "https://i.stardots.io/366046882645/StarDots-2026061016244768517.webp"
     },
     {
-      "floor": 136,
+      "floor": 137,
       "title": "再测试一下后台",
       "created": "2026-08-03",
       "updated": "2026-08-03",
@@ -1232,7 +1241,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 137,
+      "floor": 138,
       "title": "我的公益中转站上线啦！",
       "created": "2026-08-03",
       "updated": "2026-08-03",
@@ -1241,7 +1250,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 138,
+      "floor": 139,
       "title": "Ethereal 主题近期更新一览：v1.0.1 到 v1.0.6",
       "created": "2026-08-03",
       "updated": "2026-08-03",
@@ -1250,7 +1259,7 @@
       "avatar": "https://www.nannax.top/upload/avatar.jpg"
     },
     {
-      "floor": 139,
+      "floor": 140,
       "title": "为域名续费了五年：一次 NameSilo 续费，差一点误卖域名的经历",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1259,7 +1268,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 140,
+      "floor": 141,
       "title": "看就业视频有感：保安工资三千到八千，互联网发言讨论需谨慎",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1268,7 +1277,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 141,
+      "floor": 142,
       "title": "记一次家里换灯管：从旧灯管换到新灯管，我开始怀念那片昏黄",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1277,7 +1286,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 142,
+      "floor": 143,
       "title": "和妈妈讨论吃饭：妈妈为何总把排骨汤的肉，捞出来回锅炒一遍",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1286,7 +1295,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 143,
+      "floor": 144,
       "title": "长辈喜欢 AI 短剧：爸妈最近痴迷 AI 短剧，内容良莠不齐要当心",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1295,7 +1304,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 144,
+      "floor": 145,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1304,7 +1313,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 145,
+      "floor": 146,
       "title": "测试文章标题",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1313,7 +1322,7 @@
       "avatar": "https://seasir.top/assets/avatar.avif"
     },
     {
-      "floor": 146,
+      "floor": 147,
       "title": "又发现我的世界服务器：广告带我进服务器，开荒遇见好心大佬",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1322,7 +1331,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 147,
+      "floor": 148,
       "title": "想录一期实况：我的世界单方块空岛生存，家园空岛建设参观记",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1331,7 +1340,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 148,
+      "floor": 149,
       "title": "我发布的npm包“sl-file-server”",
       "created": "2026-07-15",
       "updated": "2026-08-02",
@@ -1340,7 +1349,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 149,
+      "floor": 150,
       "title": "讲个笑话，飞舞博主nginx日志飙了20GB",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1349,7 +1358,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 150,
+      "floor": 151,
       "title": "Git 推送被拒与合并冲突解决方案",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1358,7 +1367,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 151,
+      "floor": 152,
       "title": "PNPM 11 适配 CNB 构建安全兼容方案",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1367,7 +1376,7 @@
       "avatar": "https://seasir.top/assets/avatar.avif"
     },
     {
-      "floor": 152,
+      "floor": 153,
       "title": "Git 推送被拒与合并冲突解决方案",
       "created": "2026-08-02",
       "updated": "2026-08-02",
@@ -1376,7 +1385,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 153,
+      "floor": 154,
       "title": "被 DeepSeek 带偏了：分析网站流量下降，没数据只谈 SEO 细节",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1385,7 +1394,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 154,
+      "floor": 155,
       "title": "我的 Kali 使用经历：把Kali 当日常主力系统使用，为何尴尬处境",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1394,7 +1403,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 155,
+      "floor": 156,
       "title": "有时候运气真够透的：被抖音信息茧房反噬，过时技术推荐真烦",
       "created": "2026-07-31",
       "updated": "2026-08-01",
@@ -1403,7 +1412,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 156,
+      "floor": 157,
       "title": "那篇文章的评论者：投影钟博文未发布，陌生访客已摸进局域网",
       "created": "2026-07-31",
       "updated": "2026-08-01",
@@ -1412,7 +1421,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 157,
+      "floor": 158,
       "title": "大家要注意身体啊：楼下雪糕让我身体掏空，夏季食品需警惕",
       "created": "2026-07-03",
       "updated": "2026-08-01",
@@ -1421,7 +1430,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 158,
+      "floor": 159,
       "title": "只因一次笔误：一次笔误让我误以为他是女生，好感竟成了困局",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1430,7 +1439,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 159,
+      "floor": 160,
       "title": "表哥家在装修：Win10 金彩色系统，搭配 Minecraft 光线追踪",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1439,7 +1448,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 160,
+      "floor": 161,
       "title": "服务器的长途跋涉：我的世界服务器探索，飞到世界尽头建领地",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1448,7 +1457,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 161,
+      "floor": 162,
       "title": "一场作弊的高考：高考前重返学校，发现同学都在作弊改答案",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1457,7 +1466,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 162,
+      "floor": 163,
       "title": "后来如何了：辍学以后天天在家打游戏，母亲在超市笑着失落",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1466,7 +1475,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 163,
+      "floor": 164,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1475,7 +1484,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 164,
+      "floor": 165,
       "title": "EdgeOne-Pages-ImgBed，一个网页图床应用",
       "created": "2026-07-30",
       "updated": "2026-08-01",
@@ -1484,7 +1493,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 165,
+      "floor": 166,
       "title": "我闲的没事干把博客用hexo重写一边",
       "created": "2026-07-10",
       "updated": "2026-08-01",
@@ -1493,7 +1502,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 166,
+      "floor": 167,
       "title": "米塔3D字体网页端实现",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1502,7 +1511,7 @@
       "avatar": "https://i.stardots.io/784774835/StarDots-2026052116374135506.jpg"
     },
     {
-      "floor": 167,
+      "floor": 168,
       "title": "米塔3D字体网页端实现",
       "created": "2026-08-01",
       "updated": "2026-08-01",
@@ -1511,7 +1520,7 @@
       "avatar": "https://i.stardots.io/784774835/StarDots-2026052116374135506.jpg"
     },
     {
-      "floor": 168,
+      "floor": 169,
       "title": "服务器开荒第三期：我的世界服务器遭遇强盗，黑暗森林生存法",
       "created": "2026-07-02",
       "updated": "2026-07-31",
@@ -1520,7 +1529,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 169,
+      "floor": 170,
       "title": "我和好朋友讨论龙骑：校园重温特摄友情，却终究只是一场梦",
       "created": "2026-07-02",
       "updated": "2026-07-31",
@@ -1529,7 +1538,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 170,
+      "floor": 171,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-07-31",
       "updated": "2026-07-31",
@@ -1538,7 +1547,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 171,
+      "floor": 172,
       "title": "ES6语法学习day3之let第三关",
       "created": "2026-07-04",
       "updated": "2026-07-31",
@@ -1547,7 +1556,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 172,
+      "floor": 173,
       "title": "「说说」「杂记」她独一无二的名字",
       "created": "2026-07-31",
       "updated": "2026-07-31",
@@ -1556,7 +1565,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 173,
+      "floor": 174,
       "title": "手把手教你用 EdgeOne 加速 Cloudflare 图床，国内访问从 8 秒降到 0.15 秒",
       "created": "2026-07-31",
       "updated": "2026-07-31",
@@ -1565,7 +1574,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 174,
+      "floor": 175,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-07-30",
       "updated": "2026-07-30",
@@ -1574,7 +1583,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 175,
+      "floor": 176,
       "title": "Arch Linux安装以及使用指南",
       "created": "2026-07-30",
       "updated": "2026-07-30",
@@ -1583,7 +1592,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 176,
+      "floor": 177,
       "title": "Arch Linux安装以及使用指南",
       "created": "2026-07-30",
       "updated": "2026-07-30",
@@ -1592,7 +1601,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 177,
+      "floor": 178,
       "title": "记参加文字园活动：一篇有瑕疵的 Git 文章，入选文字园让我心虚",
       "created": "2026-07-02",
       "updated": "2026-07-29",
@@ -1601,7 +1610,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 178,
+      "floor": 179,
       "title": "再审视 Windows：从 Win11 的广告沼泽，逃向 UNIX 的清净世界",
       "created": "2026-07-02",
       "updated": "2026-07-29",
@@ -1610,7 +1619,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 179,
+      "floor": 180,
       "title": "Firefly-Markdown：为 Firefly 博客打造的零依赖 Markdown 编辑器",
       "created": "2026-07-28",
       "updated": "2026-07-28",
@@ -1619,7 +1628,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 180,
+      "floor": 181,
       "title": "还有一年多就可以备案了",
       "created": "2026-07-28",
       "updated": "2026-07-28",
@@ -1628,7 +1637,7 @@
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 181,
+      "floor": 182,
       "title": "Waline 部署教程：云服务器篇",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1637,7 +1646,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 182,
+      "floor": 183,
       "title": "说说评论系统全面升级：每条说说独立评论区",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1646,7 +1655,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 183,
+      "floor": 184,
       "title": "Waline 评论系统自动备份到 GitHub",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1655,7 +1664,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 184,
+      "floor": 185,
       "title": "Openlist美化指南",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1664,7 +1673,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 185,
+      "floor": 186,
       "title": "留言页的群聊风格改造",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1673,7 +1682,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 186,
+      "floor": 187,
       "title": "这个博客的朋友圈是怎么做的",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1682,7 +1691,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 187,
+      "floor": 188,
       "title": "收藏一时爽,清理要我命",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1691,7 +1700,7 @@
       "avatar": "https://mingcy.cn/image/mcy.png"
     },
     {
-      "floor": 188,
+      "floor": 189,
       "title": "AI 摘要实现",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1700,7 +1709,7 @@
       "avatar": "https://seasir.top/assets/avatar.avif"
     },
     {
-      "floor": 189,
+      "floor": 190,
       "title": "自助友链申请",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1709,7 +1718,7 @@
       "avatar": "https://seasir.top/assets/avatar.avif"
     },
     {
-      "floor": 190,
+      "floor": 191,
       "title": "Openlist美化指南",
       "created": "2026-07-27",
       "updated": "2026-07-27",
@@ -1718,7 +1727,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 191,
+      "floor": 192,
       "title": "ES6语法学习day1之 let",
       "created": "2026-07-01",
       "updated": "2026-07-26",
@@ -1727,7 +1736,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 192,
+      "floor": 193,
       "title": "Meting-API 部署指南：宝塔面板 Docker 部署",
       "created": "2026-07-26",
       "updated": "2026-07-26",
@@ -1736,7 +1745,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 193,
+      "floor": 194,
       "title": "Meting-API-使用指南",
       "created": "2026-07-26",
       "updated": "2026-07-26",
@@ -1745,7 +1754,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 194,
+      "floor": 195,
       "title": "「说说」666 我微信有点炸了",
       "created": "2026-07-26",
       "updated": "2026-07-26",
@@ -1754,7 +1763,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 195,
+      "floor": 196,
       "title": "友链挂了？自动检测+主页截图，GitHub Actions 全搞定",
       "created": "2026-07-26",
       "updated": "2026-07-26",
@@ -1763,7 +1772,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640"
     },
     {
-      "floor": 196,
+      "floor": 197,
       "title": "评论区也能发图了：Waline 接入图床 + 按页面路径自动归类",
       "created": "2026-07-26",
       "updated": "2026-07-26",
@@ -1772,7 +1781,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640"
     },
     {
-      "floor": 197,
+      "floor": 198,
       "title": "友链挂了？自动检测+主页截图，GitHub Actions 全搞定",
       "created": "2026-07-26",
       "updated": "2026-07-26",
@@ -1781,22 +1790,13 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640"
     },
     {
-      "floor": 198,
+      "floor": 199,
       "title": "评论区也能发图了：Waline 接入图床 + 按页面路径自动归类",
       "created": "2026-07-26",
       "updated": "2026-07-26",
       "link": "https://blog.fqzlr.top/posts/blog/waline-imgbed/",
       "author": "fqlzr",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640"
-    },
-    {
-      "floor": 199,
-      "title": "正版steam安装包",
-      "created": "2026-07-26",
-      "updated": "2026-07-26",
-      "link": "https://xn--9krq6q.xn--vqqq8jxym.ink/%e6%ad%a3%e7%89%88steam%e5%ae%89%e8%a3%85%e5%8c%85/",
-      "author": "万物皆可写",
-      "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
       "floor": 200,
