@@ -1,14 +1,59 @@
 {
   "statistical_data": {
     "friends_num": 43,
-    "active_num": 28,
-    "error_num": 15,
-    "article_num": 328,
-    "last_updated_time": "2026-08-30 07:56:53"
+    "active_num": 26,
+    "error_num": 17,
+    "article_num": 327,
+    "last_updated_time": "2026-08-30 12:25:46"
   },
   "article_data": [
     {
       "floor": 1,
+      "title": "用 workflow 定时让 AI 写文章，让 AI 打工",
+      "created": "2026-08-29",
+      "updated": "2026-08-30",
+      "link": "https://xfcnl.github.io/tech/2026-08-29-%E7%94%A8%20workflow%20%E5%AE%9A%E6%97%B6%E8%AE%A9%20AI%20%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%8C%E8%AE%A9%20AI%20%E6%89%93%E5%B7%A5/",
+      "author": "xf_blog",
+      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
+    },
+    {
+      "floor": 2,
+      "title": "本站新功能：AI 魅咲自动写博客上线啦（杂鱼站长狂喜）",
+      "created": "2026-08-28",
+      "updated": "2026-08-30",
+      "link": "https://xfcnl.github.io/note/2026-08-28-ai-mtcv0szj/",
+      "author": "xf_blog",
+      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
+    },
+    {
+      "floor": 3,
+      "title": "广西什么**网",
+      "created": "2026-08-22",
+      "updated": "2026-08-30",
+      "link": "https://xfcnl.github.io/tech/2026-08-22-post/",
+      "author": "xf_blog",
+      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
+    },
+    {
+      "floor": 4,
+      "title": "用 Linux 遇到的问题",
+      "created": "2026-08-20",
+      "updated": "2026-08-30",
+      "link": "https://xfcnl.github.io/tech/2026-08-20-%E7%94%A8%20Linux%20%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
+      "author": "xf_blog",
+      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
+    },
+    {
+      "floor": 5,
+      "title": "wdf，火车上有邪教！！！",
+      "created": "2026-08-16",
+      "updated": "2026-08-30",
+      "link": "https://xfcnl.github.io/note/2026-08-16-wdf%EF%BC%8C%E7%81%AB%E8%BD%A6%E4%B8%8A%E6%9C%89%E9%82%AA%E6%95%99%EF%BC%81%EF%BC%81%EF%BC%81/",
+      "author": "xf_blog",
+      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
+    },
+    {
+      "floor": 6,
       "title": "才知道有无边框全屏：macOS 游玩我的世界，全屏功能和体验",
       "created": "2026-08-19",
       "updated": "2026-08-29",
@@ -17,7 +62,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 2,
+      "floor": 7,
       "title": "杂梦拾遗录：从旅游到拯救世界的责任，那些零碎又离奇的故事",
       "created": "2026-08-17",
       "updated": "2026-08-29",
@@ -26,7 +71,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 3,
+      "floor": 8,
       "title": "大脚怪和都市传说：笑看互联网都市传说，尼斯湖水怪与大脚怪",
       "created": "2026-08-10",
       "updated": "2026-08-29",
@@ -35,7 +80,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 4,
+      "floor": 9,
       "title": "服务器开发更新日志：简幻欢停服后，我更新了服务器的数据包",
       "created": "2026-08-10",
       "updated": "2026-08-29",
@@ -44,7 +89,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 5,
+      "floor": 10,
       "title": "那两个转学生：班里转来两个高挑女生，拷贝 MP3 居然是喜欢我",
       "created": "2026-08-07",
       "updated": "2026-08-29",
@@ -53,7 +98,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 6,
+      "floor": 11,
       "title": "为什么，我们希望被看见——浅谈upxuu的建站心得",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -62,7 +107,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 7,
+      "floor": 12,
       "title": "美团送了2000w token?! Longcat 2.0体验",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -71,58 +116,13 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 8,
+      "floor": 13,
       "title": "我删掉了手机里的一张照片",
       "created": "2026-08-29",
       "updated": "2026-08-29",
       "link": "https://upxuu.com/posts/deleted-a-photo/",
       "author": "UpXuu's blog",
       "avatar": "https://upxuu.com/images/me.jpg"
-    },
-    {
-      "floor": 9,
-      "title": "用 workflow 定时让 AI 写文章，让 AI 打工",
-      "created": "2026-08-29",
-      "updated": "2026-08-29",
-      "link": "https://xfcnl.github.io/tech/2026-08-29-%E7%94%A8%20workflow%20%E5%AE%9A%E6%97%B6%E8%AE%A9%20AI%20%E5%86%99%E6%96%87%E7%AB%A0%EF%BC%8C%E8%AE%A9%20AI%20%E6%89%93%E5%B7%A5/",
-      "author": "xf_blog",
-      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
-    },
-    {
-      "floor": 10,
-      "title": "本站新功能：AI 魅咲自动写博客上线啦（杂鱼站长狂喜）",
-      "created": "2026-08-28",
-      "updated": "2026-08-29",
-      "link": "https://xfcnl.github.io/note/2026-08-28-ai-mtcv0szj/",
-      "author": "xf_blog",
-      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
-    },
-    {
-      "floor": 11,
-      "title": "广西什么**网",
-      "created": "2026-08-22",
-      "updated": "2026-08-29",
-      "link": "https://xfcnl.github.io/tech/2026-08-22-post/",
-      "author": "xf_blog",
-      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
-    },
-    {
-      "floor": 12,
-      "title": "用 Linux 遇到的问题",
-      "created": "2026-08-20",
-      "updated": "2026-08-29",
-      "link": "https://xfcnl.github.io/tech/2026-08-20-%E7%94%A8%20Linux%20%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
-      "author": "xf_blog",
-      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
-    },
-    {
-      "floor": 13,
-      "title": "wdf，火车上有邪教！！！",
-      "created": "2026-08-16",
-      "updated": "2026-08-29",
-      "link": "https://xfcnl.github.io/note/2026-08-16-wdf%EF%BC%8C%E7%81%AB%E8%BD%A6%E4%B8%8A%E6%9C%89%E9%82%AA%E6%95%99%EF%BC%81%EF%BC%81%EF%BC%81/",
-      "author": "xf_blog",
-      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
       "floor": 14,
@@ -2880,6 +2880,15 @@
     },
     {
       "floor": 320,
+      "title": "企业网络环境下 Docker、VPN 与 Git 访问冲突排查复盘",
+      "created": "2026-05-08",
+      "updated": "2026-07-07",
+      "link": "https://blog.june-pj.cn/posts/b8f3d721/",
+      "author": "June's Blog",
+      "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
+    },
+    {
+      "floor": 321,
       "title": "我不怀念所谓“经济上行期”",
       "created": "2026-07-07",
       "updated": "2026-07-07",
@@ -2888,22 +2897,13 @@
       "avatar": "https://blog.minecraftglz.top/upload/site-icon-150x150.png?width=1600"
     },
     {
-      "floor": 321,
+      "floor": 322,
       "title": "“你的外卖到了！”——从生活场景理解NVIC挂起机制",
       "created": "2026-07-07",
       "updated": "2026-07-07",
       "link": "https://ysdyblog.ccwu.cc/posts/%E8%A7%A3%E5%86%B3mpu6050%E8%AF%BB%E5%8F%96%E4%B8%8D%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/",
       "author": "ysdy",
       "avatar": "https://i.stardots.io/366046882645/StarDots-2026061016244768517.webp"
-    },
-    {
-      "floor": 322,
-      "title": "企业网络环境下 Docker、VPN 与 Git 访问冲突排查复盘",
-      "created": "2026-05-08",
-      "updated": "2026-07-07",
-      "link": "https://blog.june-pj.cn/posts/b8f3d721/",
-      "author": "June's Blog",
-      "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
     },
     {
       "floor": 323,
@@ -2949,15 +2949,6 @@
       "link": "https://www.nannax.top/archives/LHXjytpb",
       "author": "楠枝小笺",
       "avatar": "https://www.nannax.top/upload/avatar.jpg"
-    },
-    {
-      "floor": 328,
-      "title": "Gist 数据迁移工具使用指南",
-      "created": "2026-06-30",
-      "updated": "2026-06-30",
-      "link": "https://blog.tsh520.cn/posts/%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/gist%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
-      "author": "团子和蛋糕",
-      "avatar": "https://re.tsh520.cn/zl/tx.webp"
     }
   ]
 }
