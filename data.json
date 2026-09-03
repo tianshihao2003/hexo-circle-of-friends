@@ -3,8 +3,8 @@
     "friends_num": 43,
     "active_num": 29,
     "error_num": 14,
-    "article_num": 346,
-    "last_updated_time": "2026-09-03 22:12:47"
+    "article_num": 345,
+    "last_updated_time": "2026-09-04 03:10:33"
   },
   "article_data": [
     {
@@ -2826,15 +2826,6 @@
     },
     {
       "floor": 314,
-      "title": "从 Keyword RAG 到 LangChain：迷你博客 RAG 学习记录",
-      "created": "2026-07-08",
-      "updated": "2026-07-16",
-      "link": "https://blog.june-pj.cn/posts/bc30cf0b/",
-      "author": "June's Blog",
-      "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
-    },
-    {
-      "floor": 315,
       "title": "Astro Gyoza 内容标签使用指南",
       "created": "2026-07-16",
       "updated": "2026-07-16",
@@ -2843,7 +2834,7 @@
       "avatar": "https://mingcy.cn/image/mcy.png"
     },
     {
-      "floor": 316,
+      "floor": 315,
       "title": "记录第一次中考的经历",
       "created": "2026-06-26",
       "updated": "2026-07-15",
@@ -2852,7 +2843,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 317,
+      "floor": 316,
       "title": "博客接入umami统计",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -2861,7 +2852,7 @@
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 318,
+      "floor": 317,
       "title": "Claude Code Skills 介绍：我正在使用的 18 个实用技能",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -2870,7 +2861,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 319,
+      "floor": 318,
       "title": "搭建自己的在线网站监测网页",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -2879,7 +2870,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 320,
+      "floor": 319,
       "title": "Spotify 去广告教程：SpotX-Bash 使用指南",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -2888,7 +2879,7 @@
       "avatar": "https://www.huiui.net/image/icon.png"
     },
     {
-      "floor": 321,
+      "floor": 320,
       "title": "bye~cloudflare hi~huaweidns",
       "created": "2026-07-14",
       "updated": "2026-07-14",
@@ -2897,7 +2888,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 322,
+      "floor": 321,
       "title": "在安卓设备上利用Droidspace运行原生性能linux",
       "created": "2026-07-14",
       "updated": "2026-07-14",
@@ -2906,7 +2897,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 323,
+      "floor": 322,
       "title": "焕然一新！暑假博客优化的总结",
       "created": "2026-07-13",
       "updated": "2026-07-13",
@@ -2915,7 +2906,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 324,
+      "floor": 323,
       "title": "利用Astro搭建自己的博客",
       "created": "2026-07-13",
       "updated": "2026-07-13",
@@ -2924,7 +2915,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 325,
+      "floor": 324,
       "title": "使用 hexo-circle-of-friends 搭建博客朋友圈",
       "created": "2026-07-13",
       "updated": "2026-07-13",
@@ -2933,7 +2924,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 326,
+      "floor": 325,
       "title": "在受够了nginx的繁琐配置和奇奇怪怪的问题?我换了caddy",
       "created": "2026-07-12",
       "updated": "2026-07-12",
@@ -2942,7 +2933,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 327,
+      "floor": 326,
       "title": "我的个人主页迎来升级",
       "created": "2026-07-12",
       "updated": "2026-07-12",
@@ -2951,7 +2942,7 @@
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 328,
+      "floor": 327,
       "title": "网站导航管理脚本使用指南",
       "created": "2026-07-12",
       "updated": "2026-07-12",
@@ -2960,7 +2951,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 329,
+      "floor": 328,
       "title": "Cloudflare/Vercel项目推荐(6)",
       "created": "2026-07-12",
       "updated": "2026-07-12",
@@ -2969,7 +2960,7 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "floor": 330,
+      "floor": 329,
       "title": "Go 1.16 → 1.26：五年进化与源码级新老对比",
       "created": "2026-07-12",
       "updated": "2026-07-12",
@@ -2978,7 +2969,7 @@
       "avatar": "https://img.huchao.vip/file/avatar/1782805912195_7cf1163ce5b4c2783fc89f56e11124c1.jpg"
     },
     {
-      "floor": 331,
+      "floor": 330,
       "title": "Go 实战 DDD：从贫血模型到六边形分层",
       "created": "2026-07-12",
       "updated": "2026-07-12",
@@ -2987,7 +2978,7 @@
       "avatar": "https://img.huchao.vip/file/avatar/1782805912195_7cf1163ce5b4c2783fc89f56e11124c1.jpg"
     },
     {
-      "floor": 332,
+      "floor": 331,
       "title": "[已解决]一个极其诡异的现象——我的博客在搜索结果里没了描述",
       "created": "2026-07-11",
       "updated": "2026-07-11",
@@ -2996,7 +2987,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 333,
+      "floor": 332,
       "title": "我把静态博客部署在服务器上了(:!",
       "created": "2026-07-11",
       "updated": "2026-07-11",
@@ -3005,7 +2996,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 334,
+      "floor": 333,
       "title": "足迹页面使用指南：地图、后台与迁移脚本",
       "created": "2026-07-11",
       "updated": "2026-07-11",
@@ -3014,7 +3005,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 335,
+      "floor": 334,
       "title": "LVM: A Realistic Way to Manage Your Dynamic Storage",
       "created": "2026-07-11",
       "updated": "2026-07-11",
@@ -3023,7 +3014,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 336,
+      "floor": 335,
       "title": "LVM: A Realistic Way to Manage Your Dynamic Storage",
       "created": "2026-07-11",
       "updated": "2026-07-11",
@@ -3032,7 +3023,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 337,
+      "floor": 336,
       "title": "Awakening Windows Vista (+Aero) on VMWare",
       "created": "2026-07-10",
       "updated": "2026-07-10",
@@ -3041,7 +3032,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 338,
+      "floor": 337,
       "title": "Awakening Windows Vista (+Aero) on VMWare",
       "created": "2026-07-10",
       "updated": "2026-07-10",
@@ -3050,7 +3041,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 339,
+      "floor": 338,
       "title": "《我让镜像我的站跳dubo——如何反制恶意反代》",
       "created": "2026-07-09",
       "updated": "2026-07-09",
@@ -3059,7 +3050,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 340,
+      "floor": 339,
       "title": "关于近期全站被盗版镜像的处理",
       "created": "2026-07-09",
       "updated": "2026-07-09",
@@ -3068,7 +3059,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 341,
+      "floor": 340,
       "title": "从寻找到创造：发现初春图床，为 Halo 打造插件",
       "created": "2026-07-09",
       "updated": "2026-07-09",
@@ -3077,13 +3068,22 @@
       "avatar": "https://www.nannax.top/upload/avatar.jpg"
     },
     {
-      "floor": 342,
+      "floor": 341,
       "title": "Repairing Your Linux EFI Boot Entry with efibootmgr",
       "created": "2026-07-09",
       "updated": "2026-07-09",
       "link": "https://shangdi.github.io/posts/tech/efibootmgr/",
       "author": "Secret Blog",
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
+    },
+    {
+      "floor": 342,
+      "title": "从 Keyword RAG 到 LangChain：迷你博客 RAG 学习记录",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "link": "https://blog.june-pj.cn/posts/bc30cf0b/",
+      "author": "June's Blog",
+      "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
     },
     {
       "floor": 343,
@@ -3105,15 +3105,6 @@
     },
     {
       "floor": 345,
-      "title": "企业网络环境下 Docker、VPN 与 Git 访问冲突排查复盘",
-      "created": "2026-05-08",
-      "updated": "2026-07-07",
-      "link": "https://blog.june-pj.cn/posts/b8f3d721/",
-      "author": "June's Blog",
-      "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
-    },
-    {
-      "floor": 346,
       "title": "代码提交到错误分支怎么办：四种场景与完整恢复指南",
       "created": "2026-07-07",
       "updated": "2026-07-07",
