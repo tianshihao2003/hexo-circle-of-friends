@@ -3,8 +3,8 @@
     "friends_num": 46,
     "active_num": 31,
     "error_num": 15,
-    "article_num": 373,
-    "last_updated_time": "2026-09-12 06:19:03"
+    "article_num": 369,
+    "last_updated_time": "2026-09-12 11:33:13"
   },
   "article_data": [
     {
@@ -630,6 +630,15 @@
     },
     {
       "floor": 70,
+      "title": "近期计划",
+      "created": "2026-08-24",
+      "updated": "2026-08-31",
+      "link": "https://yujingblog.top/plan2026-08-24/",
+      "author": "YuJing的记忆终端",
+      "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
+    },
+    {
+      "floor": 71,
       "title": "敬我的暑假",
       "created": "2026-08-31",
       "updated": "2026-08-31",
@@ -638,7 +647,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 71,
+      "floor": 72,
       "title": "模拟电子技术基础",
       "created": "2026-08-30",
       "updated": "2026-08-30",
@@ -647,7 +656,7 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 72,
+      "floor": 73,
       "title": "模电笔记",
       "created": "2026-08-30",
       "updated": "2026-08-30",
@@ -656,7 +665,7 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 73,
+      "floor": 74,
       "title": "从零搭一个 QQ AI 机器人：NapCat + AstrBot + DeepSeek 全流程",
       "created": "2026-08-30",
       "updated": "2026-08-30",
@@ -665,7 +674,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 74,
+      "floor": 75,
       "title": "我删掉了手机里的一张照片",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -674,7 +683,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 75,
+      "floor": 76,
       "title": "美团送了2000w token?! Longcat 2.0体验",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -683,7 +692,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 76,
+      "floor": 77,
       "title": "为什么，我们希望被看见——浅谈upxuu的建站心得",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -692,7 +701,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 77,
+      "floor": 78,
       "title": "博客开发日记",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -701,7 +710,7 @@
       "avatar": "https://qiguai.net/favicon/safari-pinned-tab.svg"
     },
     {
-      "floor": 78,
+      "floor": 79,
       "title": "一加8/8T/8Pro安装Kali NetHunter完整指南：从零开始的移动安全渗透测试平台",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -710,7 +719,7 @@
       "avatar": "https://bk.zhaozhiqiang.pw/wp-content/uploads/2026/07/1784847314130_148x148.png"
     },
     {
-      "floor": 79,
+      "floor": 80,
       "title": "为Firefly博客加入「更新日志」页面，记录并展示每一次的Git提交修改",
       "created": "2026-08-29",
       "updated": "2026-08-29",
@@ -719,7 +728,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 80,
+      "floor": 81,
       "title": "Typeless，一款可以让你只动嘴、不动手的输入法，Typeless 初体验",
       "created": "2026-08-13",
       "updated": "2026-08-28",
@@ -728,7 +737,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 81,
+      "floor": 82,
       "title": "何以容易？——手写一篇中考应试文",
       "created": "2026-08-28",
       "updated": "2026-08-28",
@@ -737,7 +746,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 82,
+      "floor": 83,
       "title": "博客音乐播放器：3D 频谱地形与 Meting 接入",
       "created": "2026-08-28",
       "updated": "2026-08-28",
@@ -746,7 +755,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 83,
+      "floor": 84,
       "title": "🧠 把 DeepSeek Harness 搬上 Android",
       "created": "2026-08-28",
       "updated": "2026-08-28",
@@ -755,7 +764,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 84,
+      "floor": 85,
       "title": "我鬼脑发力是如何找到 BA BWiki 是如何找到如何修改首页内容的",
       "created": "2026-08-08",
       "updated": "2026-08-27",
@@ -764,7 +773,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 85,
+      "floor": 86,
       "title": "免费的...DeepSeek v4 pro 0813?!!",
       "created": "2026-08-27",
       "updated": "2026-08-27",
@@ -773,7 +782,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 86,
+      "floor": 87,
       "title": "我真的想上学了",
       "created": "2026-08-27",
       "updated": "2026-08-27",
@@ -782,7 +791,7 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 87,
+      "floor": 88,
       "title": "RAG 策略",
       "created": "2026-08-27",
       "updated": "2026-08-27",
@@ -791,7 +800,7 @@
       "avatar": "https://i.stardots.io/784774835/StarDots-2026052116374135506.jpg"
     },
     {
-      "floor": 88,
+      "floor": 89,
       "title": "自建 Meting API 并让国内访问不再慢：Vercel 香港节点 + 歌词代理 + 边缘缓存",
       "created": "2026-08-27",
       "updated": "2026-08-27",
@@ -800,7 +809,7 @@
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
     },
     {
-      "floor": 89,
+      "floor": 90,
       "title": "DNS Lookup Utility with 'dig'",
       "created": "2026-08-27",
       "updated": "2026-08-27",
@@ -809,7 +818,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 90,
+      "floor": 91,
       "title": "PEAK：和朋友们一起爬山",
       "created": "2026-08-27",
       "updated": "2026-08-27",
@@ -818,7 +827,7 @@
       "avatar": "https://blog.seln.cn/img/ico.jpg"
     },
     {
-      "floor": 91,
+      "floor": 92,
       "title": "",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -827,7 +836,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 92,
+      "floor": 93,
       "title": "开学了，博客又要何去何从",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -836,7 +845,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 93,
+      "floor": 94,
       "title": "（二）【云计算技术篇】",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -845,7 +854,7 @@
       "avatar": "https://sakura-hu.top/_astro/avatar.CS-ZQTIU_myA2M.webp"
     },
     {
-      "floor": 94,
+      "floor": 95,
       "title": "未命名",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -854,7 +863,7 @@
       "avatar": "https://sakura-hu.top/_astro/avatar.CS-ZQTIU_myA2M.webp"
     },
     {
-      "floor": 95,
+      "floor": 96,
       "title": "（三）【数据中心篇】",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -863,7 +872,7 @@
       "avatar": "https://sakura-hu.top/_astro/avatar.CS-ZQTIU_myA2M.webp"
     },
     {
-      "floor": 96,
+      "floor": 97,
       "title": "Cloudflare国内速度优化、优选域名IP心得分享",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -872,7 +881,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 97,
+      "floor": 98,
       "title": "一文讲透英伟达免费模型的白嫖技巧,零成本蹬顶级模型之nvida 的minimax m3",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -881,7 +890,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 98,
+      "floor": 99,
       "title": "使用邀请码新注册，送积分啦，用完为止，在2026/8/25之前注册的老用户也已同步发放积分",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -890,7 +899,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 99,
+      "floor": 100,
       "title": "记一次救砖经历",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -899,7 +908,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 100,
+      "floor": 101,
       "title": "刷机自动化研究",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -908,7 +917,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 101,
+      "floor": 102,
       "title": "DeepSeek Harness 从零到精装：必装插件推荐与完整上手指南",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -917,7 +926,7 @@
       "avatar": "https://img.huchao.vip/file/avatar/1782805912195_7cf1163ce5b4c2783fc89f56e11124c1.jpg"
     },
     {
-      "floor": 102,
+      "floor": 103,
       "title": "正版steam安装包",
       "created": "2026-07-26",
       "updated": "2026-08-24",
@@ -926,7 +935,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 103,
+      "floor": 104,
       "title": "和传销斗智斗勇——进入商场第一关",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -935,7 +944,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 104,
+      "floor": 105,
       "title": "电脑越用越慢？关闭这5个设置，瞬间提速",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -944,7 +953,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 105,
+      "floor": 106,
       "title": "C盘空间不足？5个安全清理步骤，不留垃圾",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -953,7 +962,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 106,
+      "floor": 107,
       "title": "电脑越用越慢？关闭这5个设置，瞬间提速",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -962,7 +971,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 107,
+      "floor": 108,
       "title": "C盘空间不足？5个安全清理步骤，不留垃圾",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -971,7 +980,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 108,
+      "floor": 109,
       "title": "电脑越用越慢？关闭这5个设置，瞬间提速",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -980,7 +989,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 109,
+      "floor": 110,
       "title": "C盘空间不足？5个安全清理步骤，不留垃圾",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -989,7 +998,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 110,
+      "floor": 111,
       "title": "记账本",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -998,7 +1007,7 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 111,
+      "floor": 112,
       "title": "待办",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -1007,22 +1016,13 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 112,
+      "floor": 113,
       "title": "使用安卓设备及Nethunter研究蓝牙BLE技术",
       "created": "2026-08-24",
       "updated": "2026-08-24",
       "link": "https://bk.zhaozhiqiang.pw/1203.html",
       "author": "星宇安全实验室",
       "avatar": "https://bk.zhaozhiqiang.pw/wp-content/uploads/2026/07/1784847314130_148x148.png"
-    },
-    {
-      "floor": 113,
-      "title": "近期计划",
-      "created": "2026-08-24",
-      "updated": "2026-08-24",
-      "link": "https://yujingblog.top/plan2026-08-24/",
-      "author": "YuJing的记忆终端",
-      "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
       "floor": 114,
@@ -3258,15 +3258,6 @@
     },
     {
       "floor": 362,
-      "title": "从 Keyword RAG 到 LangChain：迷你博客 RAG 学习记录",
-      "created": "2026-07-08",
-      "updated": "2026-07-16",
-      "link": "https://blog.june-pj.cn/posts/bc30cf0b/",
-      "author": "June's Blog",
-      "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
-    },
-    {
-      "floor": 363,
       "title": "Astro Gyoza 内容标签使用指南",
       "created": "2026-07-16",
       "updated": "2026-07-16",
@@ -3275,7 +3266,7 @@
       "avatar": "https://mingcy.cn/image/mcy.png"
     },
     {
-      "floor": 364,
+      "floor": 363,
       "title": "记录第一次中考的经历",
       "created": "2026-06-26",
       "updated": "2026-07-15",
@@ -3284,7 +3275,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 365,
+      "floor": 364,
       "title": "博客接入umami统计",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -3293,7 +3284,7 @@
       "avatar": "https://blog.xuioo.com/avatar.jpg"
     },
     {
-      "floor": 366,
+      "floor": 365,
       "title": "Claude Code Skills 介绍：我正在使用的 18 个实用技能",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -3302,7 +3293,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 367,
+      "floor": 366,
       "title": "搭建自己的在线网站监测网页",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -3311,7 +3302,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 368,
+      "floor": 367,
       "title": "Spotify 去广告教程：SpotX-Bash 使用指南",
       "created": "2026-07-15",
       "updated": "2026-07-15",
@@ -3320,7 +3311,7 @@
       "avatar": "https://www.huiui.net/image/icon.png"
     },
     {
-      "floor": 369,
+      "floor": 368,
       "title": "bye~cloudflare hi~huaweidns",
       "created": "2026-07-14",
       "updated": "2026-07-14",
@@ -3329,40 +3320,13 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 370,
+      "floor": 369,
       "title": "在安卓设备上利用Droidspace运行原生性能linux",
       "created": "2026-07-14",
       "updated": "2026-07-14",
       "link": "https://www.jerry-nis.top/posts/droidsapce/droidspace/",
       "author": "JerryLife",
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
-    },
-    {
-      "floor": 371,
-      "title": "焕然一新！暑假博客优化的总结",
-      "created": "2026-07-13",
-      "updated": "2026-07-13",
-      "link": "https://upxuu.com/posts/26summer/",
-      "author": "UpXuu's blog",
-      "avatar": "https://upxuu.com/images/me.jpg"
-    },
-    {
-      "floor": 372,
-      "title": "利用Astro搭建自己的博客",
-      "created": "2026-07-13",
-      "updated": "2026-07-13",
-      "link": "https://www.jerry-nis.top/posts/astrobuilder/astrobuilder/",
-      "author": "JerryLife",
-      "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
-    },
-    {
-      "floor": 373,
-      "title": "使用 hexo-circle-of-friends 搭建博客朋友圈",
-      "created": "2026-07-13",
-      "updated": "2026-07-13",
-      "link": "https://blog.tsh520.cn/posts/%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/%E4%BD%BF%E7%94%A8hexo-circle-of-friends%E6%90%AD%E5%BB%BA%E6%9C%8B%E5%8F%8B%E5%9C%88/",
-      "author": "团子和蛋糕",
-      "avatar": "https://re.tsh520.cn/zl/tx.webp"
     }
   ]
 }
