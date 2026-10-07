@@ -3,8 +3,8 @@
     "friends_num": 47,
     "active_num": 32,
     "error_num": 15,
-    "article_num": 373,
-    "last_updated_time": "2026-10-07 06:26:33"
+    "article_num": 367,
+    "last_updated_time": "2026-10-07 12:47:26"
   },
   "article_data": [
     {
@@ -162,6 +162,15 @@
     },
     {
       "floor": 18,
+      "title": "怎么让 dsh 搜索用上 Exa 插件",
+      "created": "2026-10-02",
+      "updated": "2026-10-05",
+      "link": "https://blog.amamo.top/posts/zen-me-rang-dsh-sou-suo-yong-shang-exa-cha-jian/",
+      "author": "年华",
+      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
+    },
+    {
+      "floor": 19,
       "title": "最有生活的九月",
       "created": "2026-10-05",
       "updated": "2026-10-05",
@@ -170,7 +179,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 19,
+      "floor": 20,
       "title": "安卓Root的选择与使用教程指南",
       "created": "2026-10-05",
       "updated": "2026-10-05",
@@ -179,7 +188,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 20,
+      "floor": 21,
       "title": "暑假最后一次写博客",
       "created": "2026-08-31",
       "updated": "2026-10-04",
@@ -188,7 +197,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 21,
+      "floor": 22,
       "title": "测试",
       "created": "2026-10-04",
       "updated": "2026-10-04",
@@ -197,7 +206,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 22,
+      "floor": 23,
       "title": "最近把 QQ 删掉了：社交媒体的边界感，为什么我最终选择删掉了 QQ",
       "created": "2026-10-01",
       "updated": "2026-10-04",
@@ -206,7 +215,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 23,
+      "floor": 24,
       "title": "记国庆节去商场购物：不想去拥挤的景区旅游，也不想去别人的博客串门",
       "created": "2026-10-01",
       "updated": "2026-10-04",
@@ -215,7 +224,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 24,
+      "floor": 25,
       "title": "八月三十一，我在和终端较劲",
       "created": "2026-08-31",
       "updated": "2026-10-04",
@@ -224,7 +233,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 25,
+      "floor": 26,
       "title": "博客性能优化全记录：Lighthouse 报告拆解到帧率根因排查（A–F 六项实战）",
       "created": "2026-10-04",
       "updated": "2026-10-04",
@@ -233,7 +242,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 26,
+      "floor": 27,
       "title": "如何爽用 glm 免费用 glm-5.3-flash 实现 token 自由",
       "created": "2026-10-04",
       "updated": "2026-10-04",
@@ -242,7 +251,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 27,
+      "floor": 28,
       "title": "方舟第四次同步进度：超大杯干员到达精二 60 级，资源积累与养成策略",
       "created": "2026-09-30",
       "updated": "2026-10-03",
@@ -251,7 +260,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 28,
+      "floor": 29,
       "title": "Firefly 博客实战：从零搭建任意设备可用的发布台（Vercel + GitHub API）",
       "created": "2026-10-03",
       "updated": "2026-10-03",
@@ -260,7 +269,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 29,
+      "floor": 30,
       "title": "Win11 资源管理器大小列只显示 KB？开启 KB / MB / GB 自适应显示完整教程",
       "created": "2026-10-03",
       "updated": "2026-10-03",
@@ -269,7 +278,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 30,
+      "floor": 31,
       "title": "更新公告20261003",
       "created": "2026-10-03",
       "updated": "2026-10-03",
@@ -278,7 +287,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 31,
+      "floor": 32,
       "title": "dsh-fs-link2symlink-fix：一个插件修好 dsh 在 PRoot 下 write 丢文件",
       "created": "2026-10-03",
       "updated": "2026-10-03",
@@ -287,7 +296,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 32,
+      "floor": 33,
       "title": "随机封面修复记：同一篇文章，列表和详情页竟然两张图",
       "created": "2026-10-03",
       "updated": "2026-10-03",
@@ -296,7 +305,16 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 33,
+      "floor": 34,
+      "title": "Getting to Know The Linux 'env' Command",
+      "created": "2026-09-30",
+      "updated": "2026-10-03",
+      "link": "https://secretblog.my.id/posts/tech/env/",
+      "author": "Secret Blog",
+      "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
+    },
+    {
+      "floor": 35,
       "title": "一行gh cli 我的一百个star没了！",
       "created": "2026-10-03",
       "updated": "2026-10-03",
@@ -305,7 +323,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 34,
+      "floor": 36,
       "title": "最后一包方便面：最近有关方便面的生活反思，从微辣和上火的饮食调整",
       "created": "2026-09-30",
       "updated": "2026-10-02",
@@ -314,7 +332,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 35,
+      "floor": 37,
       "title": "Codex 重装后三大故障修复全记录：CC Switch 报错、走官方通道、聊天记录丢失",
       "created": "2026-10-02",
       "updated": "2026-10-02",
@@ -323,16 +341,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 36,
-      "title": "怎么让 dsh 搜索用上 Exa 插件",
-      "created": "2026-10-02",
-      "updated": "2026-10-02",
-      "link": "https://blog.amamo.top/posts/zen-me-rang-dsh-sou-suo-yong-shang-exa-cha-jian/",
-      "author": "年华",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
-    },
-    {
-      "floor": 37,
+      "floor": 38,
       "title": "又是一年国庆节：回想去年在闲鱼开的技术小店，被英伟达项目狠狠折磨",
       "created": "2026-09-30",
       "updated": "2026-10-01",
@@ -341,7 +350,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 38,
+      "floor": 39,
       "title": "未命名",
       "created": "2026-10-01",
       "updated": "2026-10-01",
@@ -350,7 +359,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 39,
+      "floor": 40,
       "title": "0 A.D. 游戏体验报告：一款开源的实时战略游戏，但社区协作令人堪忧",
       "created": "2026-09-30",
       "updated": "2026-10-01",
@@ -359,7 +368,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 40,
+      "floor": 41,
       "title": "评论区回复时表情面板被截断：一次 overflow 裁剪排查实录",
       "created": "2026-10-01",
       "updated": "2026-10-01",
@@ -368,7 +377,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 41,
+      "floor": 42,
       "title": "中国新药你99%不知道的那些事",
       "created": "2026-10-01",
       "updated": "2026-10-01",
@@ -377,7 +386,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 42,
+      "floor": 43,
       "title": "测试",
       "created": "2026-10-01",
       "updated": "2026-10-01",
@@ -386,7 +395,7 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
     },
     {
-      "floor": 43,
+      "floor": 44,
       "title": "我的世界的饭圈化：为什么会频繁出现星期五，为什么五人组诅咒会应验",
       "created": "2026-09-29",
       "updated": "2026-09-30",
@@ -395,7 +404,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 44,
+      "floor": 45,
       "title": "外网文件下载问题：游戏资源下载速度太慢，直链加速下载与分发的探讨",
       "created": "2026-09-28",
       "updated": "2026-09-30",
@@ -404,22 +413,13 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 45,
+      "floor": 46,
       "title": "我可能玩不懂终末地：鹰角箱庭新游戏体验报告，目前新手入坑真是困难",
       "created": "2026-09-30",
       "updated": "2026-09-30",
       "link": "https://090909.top/2026/09/30/%E6%88%91%E5%8F%AF%E8%83%BD%E7%8E%A9%E4%B8%8D%E6%87%82%E7%BB%88%E6%9C%AB%E5%9C%B0/",
       "author": "他说",
       "avatar": "https://090909.top/assets/images/avatar.webp"
-    },
-    {
-      "floor": 46,
-      "title": "Getting to Know The Linux 'env' Command",
-      "created": "2026-09-30",
-      "updated": "2026-09-30",
-      "link": "https://secretblog.my.id/posts/tech/env/",
-      "author": "Secret Blog",
-      "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
       "floor": 47,
@@ -477,6 +477,15 @@
     },
     {
       "floor": 53,
+      "title": "Manual GRUB Boot Menu Entry",
+      "created": "2026-09-27",
+      "updated": "2026-09-29",
+      "link": "https://secretblog.my.id/posts/tech/manualgrubmenu/",
+      "author": "Secret Blog",
+      "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
+    },
+    {
+      "floor": 54,
       "title": "26.3 的 Vitrail 即将到来：作者承诺协助贡献者完善代码，并同步到主线",
       "created": "2026-09-26",
       "updated": "2026-09-28",
@@ -485,7 +494,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 54,
+      "floor": 55,
       "title": "Firefly 博客实战：给文章页加阅读进度条与圆环百分比",
       "created": "2026-09-28",
       "updated": "2026-09-28",
@@ -494,7 +503,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 55,
+      "floor": 56,
       "title": "更新公告20260928",
       "created": "2026-09-28",
       "updated": "2026-09-28",
@@ -503,7 +512,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 56,
+      "floor": 57,
       "title": "中秋节与家人赏月：中秋节的广东茂名市夜景，记录节日的独特反差体验",
       "created": "2026-09-25",
       "updated": "2026-09-27",
@@ -512,7 +521,7 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 57,
+      "floor": 58,
       "title": "U 盘貌似坏掉了：为什么我的 U 盘坏了不焦虑？我的云端数据备份哲学",
       "created": "2026-09-25",
       "updated": "2026-09-27",
@@ -521,22 +530,13 @@
       "avatar": "https://090909.top/assets/images/avatar.webp"
     },
     {
-      "floor": 58,
+      "floor": 59,
       "title": "碎碎念（第四期）",
       "created": "2026-09-27",
       "updated": "2026-09-27",
       "link": "http://qiguai.net/posts/post-mujz9eay/",
       "author": "奇怪の博客",
       "avatar": "https://qiguai.net/favicon/safari-pinned-tab.svg"
-    },
-    {
-      "floor": 59,
-      "title": "Manual GRUB Boot Menu Entry",
-      "created": "2026-09-27",
-      "updated": "2026-09-27",
-      "link": "https://secretblog.my.id/posts/tech/manualgrubmenu/",
-      "author": "Secret Blog",
-      "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
       "floor": 60,
@@ -720,6 +720,15 @@
     },
     {
       "floor": 80,
+      "title": "🎯 Kalidroid实战渗透测试完整流程指南（完整版）",
+      "created": "2026-09-20",
+      "updated": "2026-09-23",
+      "link": "https://bk.zhaozhiqiang.pw/1296.html",
+      "author": "星宇安全实验室",
+      "avatar": "https://bk.zhaozhiqiang.pw/wp-content/uploads/2026/07/1784847314130_148x148.png"
+    },
+    {
+      "floor": 81,
       "title": "用 AI 批量生成高密度拼贴风博客封面：一套可完整复现的提示词工作流",
       "created": "2026-09-23",
       "updated": "2026-09-23",
@@ -728,7 +737,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 81,
+      "floor": 82,
       "title": "MiMo-V2.6：扩展强化学习规模，迈向自我提升",
       "created": "2026-09-22",
       "updated": "2026-09-22",
@@ -737,7 +746,7 @@
       "avatar": "https://tu.mstzuomu.space/file/头像/1786942479049_azumahead.jpg"
     },
     {
-      "floor": 82,
+      "floor": 83,
       "title": "2026年度湖北省省公安机关面向公安院校公安专业毕业生考试录用公务员职位计划表",
       "created": "2026-09-22",
       "updated": "2026-09-22",
@@ -746,7 +755,7 @@
       "avatar": "https://blog.minecraftglz.top/upload/site-icon-150x150.png?width=1600"
     },
     {
-      "floor": 83,
+      "floor": 84,
       "title": "LangChain概述与生态",
       "created": "2026-09-21",
       "updated": "2026-09-21",
@@ -755,7 +764,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 84,
+      "floor": 85,
       "title": "大模型应用场景与技术选型",
       "created": "2026-09-21",
       "updated": "2026-09-21",
@@ -764,7 +773,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 85,
+      "floor": 86,
       "title": "开发环境搭建-conda",
       "created": "2026-09-21",
       "updated": "2026-09-21",
@@ -773,7 +782,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 86,
+      "floor": 87,
       "title": "长期记忆与运行时上下文",
       "created": "2026-09-21",
       "updated": "2026-09-21",
@@ -782,7 +791,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 87,
+      "floor": 88,
       "title": "嵌入模型与向量存储实战",
       "created": "2026-09-21",
       "updated": "2026-09-21",
@@ -791,7 +800,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 88,
+      "floor": 89,
       "title": "RAG入门与文档加载切分",
       "created": "2026-09-21",
       "updated": "2026-09-21",
@@ -800,7 +809,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 89,
+      "floor": 90,
       "title": "🎯 Kalidroid实战渗透测试完整流程指南（第一部分）",
       "created": "2026-09-20",
       "updated": "2026-09-20",
@@ -809,20 +818,11 @@
       "avatar": "https://bk.zhaozhiqiang.pw/wp-content/uploads/2026/07/1784847314130_148x148.png"
     },
     {
-      "floor": 90,
+      "floor": 91,
       "title": "测试文章",
       "created": "2026-09-20",
       "updated": "2026-09-20",
       "link": "https://bk.zhaozhiqiang.pw/1293.html",
-      "author": "星宇安全实验室",
-      "avatar": "https://bk.zhaozhiqiang.pw/wp-content/uploads/2026/07/1784847314130_148x148.png"
-    },
-    {
-      "floor": 91,
-      "title": "🎯 Kalidroid实战渗透测试完整流程指南（完整版）",
-      "created": "2026-09-20",
-      "updated": "2026-09-20",
-      "link": "https://bk.zhaozhiqiang.pw/1296.html",
       "author": "星宇安全实验室",
       "avatar": "https://bk.zhaozhiqiang.pw/wp-content/uploads/2026/07/1784847314130_148x148.png"
     },
@@ -2115,6 +2115,15 @@
     },
     {
       "floor": 235,
+      "title": "Astro + Firefly: The Best Combo for Personal Blog",
+      "created": "2026-08-22",
+      "updated": "2026-08-27",
+      "link": "https://secretblog.my.id/posts/tech/firefly/",
+      "author": "Secret Blog",
+      "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
+    },
+    {
+      "floor": 236,
       "title": "PEAK：和朋友们一起爬山",
       "created": "2026-08-27",
       "updated": "2026-08-27",
@@ -2123,7 +2132,7 @@
       "avatar": "https://blog.seln.cn/img/ico.jpg"
     },
     {
-      "floor": 236,
+      "floor": 237,
       "title": "",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -2132,7 +2141,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 237,
+      "floor": 238,
       "title": "开学了，博客又要何去何从",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -2141,7 +2150,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 238,
+      "floor": 239,
       "title": "（二）【云计算技术篇】",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -2150,7 +2159,7 @@
       "avatar": "https://sakura-hu.top/_astro/avatar.CS-ZQTIU_myA2M.webp"
     },
     {
-      "floor": 239,
+      "floor": 240,
       "title": "未命名",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -2159,7 +2168,7 @@
       "avatar": "https://sakura-hu.top/_astro/avatar.CS-ZQTIU_myA2M.webp"
     },
     {
-      "floor": 240,
+      "floor": 241,
       "title": "（三）【数据中心篇】",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -2168,7 +2177,7 @@
       "avatar": "https://sakura-hu.top/_astro/avatar.CS-ZQTIU_myA2M.webp"
     },
     {
-      "floor": 241,
+      "floor": 242,
       "title": "Cloudflare国内速度优化、优选域名IP心得分享",
       "created": "2026-08-26",
       "updated": "2026-08-26",
@@ -2177,7 +2186,7 @@
       "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     },
     {
-      "floor": 242,
+      "floor": 243,
       "title": "一文讲透英伟达免费模型的白嫖技巧,零成本蹬顶级模型之nvida 的minimax m3",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -2186,7 +2195,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 243,
+      "floor": 244,
       "title": "使用邀请码新注册，送积分啦，用完为止，在2026/8/25之前注册的老用户也已同步发放积分",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -2195,7 +2204,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 244,
+      "floor": 245,
       "title": "记一次救砖经历",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -2204,7 +2213,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 245,
+      "floor": 246,
       "title": "刷机自动化研究",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -2213,7 +2222,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 246,
+      "floor": 247,
       "title": "🔧 WordPress TinyMCE 错误修复指南",
       "created": "2026-08-18",
       "updated": "2026-08-25",
@@ -2222,7 +2231,7 @@
       "avatar": "https://bk.zhaozhiqiang.pw/wp-content/uploads/2026/07/1784847314130_148x148.png"
     },
     {
-      "floor": 247,
+      "floor": 248,
       "title": "DeepSeek Harness 从零到精装：必装插件推荐与完整上手指南",
       "created": "2026-08-25",
       "updated": "2026-08-25",
@@ -2231,7 +2240,7 @@
       "avatar": "https://img.huchao.vip/file/avatar/1782805912195_7cf1163ce5b4c2783fc89f56e11124c1.jpg"
     },
     {
-      "floor": 248,
+      "floor": 249,
       "title": "正版steam安装包",
       "created": "2026-07-26",
       "updated": "2026-08-24",
@@ -2240,7 +2249,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 249,
+      "floor": 250,
       "title": "和传销斗智斗勇——进入商场第一关",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2249,7 +2258,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 250,
+      "floor": 251,
       "title": "电脑越用越慢？关闭这5个设置，瞬间提速",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2258,7 +2267,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 251,
+      "floor": 252,
       "title": "C盘空间不足？5个安全清理步骤，不留垃圾",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2267,7 +2276,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 252,
+      "floor": 253,
       "title": "电脑越用越慢？关闭这5个设置，瞬间提速",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2276,7 +2285,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 253,
+      "floor": 254,
       "title": "C盘空间不足？5个安全清理步骤，不留垃圾",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2285,7 +2294,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 254,
+      "floor": 255,
       "title": "记账本",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2294,7 +2303,7 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 255,
+      "floor": 256,
       "title": "待办",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2303,7 +2312,7 @@
       "avatar": "https://xixmu.top/_astro/head_ima.rsW3s28l_1KtIxl.avif"
     },
     {
-      "floor": 256,
+      "floor": 257,
       "title": "电脑越用越慢？关闭这5个设置，瞬间提速",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2312,7 +2321,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 257,
+      "floor": 258,
       "title": "C盘空间不足？5个安全清理步骤，不留垃圾",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2321,7 +2330,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 258,
+      "floor": 259,
       "title": "近期计划",
       "created": "2026-08-24",
       "updated": "2026-08-24",
@@ -2330,7 +2339,7 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 259,
+      "floor": 260,
       "title": "Cloudflare Worker 反代 TMDB：国内服务器也能稳定获取影视封面",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -2339,7 +2348,7 @@
       "avatar": "https://s1.imagehub.cc/images/2025/12/06/28380affd86b014a6dcaf082fcc97064.png"
     },
     {
-      "floor": 260,
+      "floor": 261,
       "title": "The Best Search Engine Reviews: In-Depth Tests & Comparisons",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -2348,7 +2357,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 261,
+      "floor": 262,
       "title": "The Best Search Engine Reviews: In-Depth Tests & Comparisons",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -2357,7 +2366,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 262,
+      "floor": 263,
       "title": "The Best Search Engine Reviews: In-Depth Tests & Comparisons",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -2366,7 +2375,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 263,
+      "floor": 264,
       "title": "Cloudflare Worker 反代 TMDB：国内服务器也能稳定获取影视封面",
       "created": "2026-08-23",
       "updated": "2026-08-23",
@@ -2375,7 +2384,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 264,
+      "floor": 265,
       "title": "博客大更新",
       "created": "2026-08-06",
       "updated": "2026-08-22",
@@ -2384,7 +2393,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 265,
+      "floor": 266,
       "title": "测试",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2393,7 +2402,7 @@
       "avatar": "/assets/ziyuan/tx.webp"
     },
     {
-      "floor": 266,
+      "floor": 267,
       "title": "Astro + Firefly: The Best Combo for Personal Blog",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2402,7 +2411,7 @@
       "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
-      "floor": 267,
+      "floor": 268,
       "title": "电脑使用教程大全：从入门到精通的实用指南",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2411,7 +2420,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 268,
+      "floor": 269,
       "title": "「说说」3秒删掉此电脑里的钉子户网盘",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2420,7 +2429,7 @@
       "avatar": "https://upxuu.com/images/me.jpg"
     },
     {
-      "floor": 269,
+      "floor": 270,
       "title": "旧手机怎么处理？数码回收与再利用全攻略",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2429,7 +2438,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 270,
+      "floor": 271,
       "title": "旧手机怎么处理？数码回收与再利用全攻略",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2438,7 +2447,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 271,
+      "floor": 272,
       "title": "电脑使用教程大全：从入门到精通的实用指南",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2447,7 +2456,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 272,
+      "floor": 273,
       "title": "旧手机怎么处理？数码回收与再利用全攻略",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2456,7 +2465,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 273,
+      "floor": 274,
       "title": "电脑使用教程大全：从入门到精通的实用指南",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2465,7 +2474,7 @@
       "avatar": "https://img.cdn1.vip/i/6a8bf9c69e99a_1787558342.webp"
     },
     {
-      "floor": 274,
+      "floor": 275,
       "title": "dsh体验及我的agent历程",
       "created": "2026-08-22",
       "updated": "2026-08-22",
@@ -2474,22 +2483,13 @@
       "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     },
     {
-      "floor": 275,
+      "floor": 276,
       "title": "主题合并排错记：git 误删工作树、架构漂移与 CSS 三连击",
       "created": "2026-08-22",
       "updated": "2026-08-22",
       "link": "https://x1anyu.cn/posts/9/",
       "author": "临渊羡鱼",
       "avatar": "https://imgbed.yufish.cn/file/1786706585612_avatar.png"
-    },
-    {
-      "floor": 276,
-      "title": "Astro + Firefly: The Best Combo for Personal Blog",
-      "created": "2026-08-22",
-      "updated": "2026-08-22",
-      "link": "https://secretblog.my.id/posts/tech/firefly/",
-      "author": "Secret Blog",
-      "avatar": "https://i.ibb.co.com/tpYBWwXy/shangdi.avif"
     },
     {
       "floor": 277,
@@ -3309,60 +3309,6 @@
       "link": "https://mingcy.cn/2026/08/08/new-work/",
       "author": "茗辰原",
       "avatar": "https://mingcy.cn/image/mcy.png"
-    },
-    {
-      "floor": 368,
-      "title": "为了在博客显示我的b站动态，我都干了什么",
-      "created": "2026-07-24",
-      "updated": "2026-08-07",
-      "link": "https://xfcnl.github.io/tech/2026-07-24-%E4%B8%BA%E4%BA%86%E5%9C%A8%E5%8D%9A%E5%AE%A2%E6%98%BE%E7%A4%BA%E6%88%91%E7%9A%84b%E7%AB%99%E5%8A%A8%E6%80%81%EF%BC%8C%E6%88%91%E9%83%BD%E5%B9%B2%E4%BA%86%E4%BB%80%E4%B9%88/",
-      "author": "xf_blog",
-      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
-    },
-    {
-      "floor": 369,
-      "title": "使用 PagesCMS 给静态博客接入后台",
-      "created": "2026-08-07",
-      "updated": "2026-08-07",
-      "link": "https://blog.tsh520.cn/posts/%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/%E4%BD%BF%E7%94%A8pagescms%E7%BB%99%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%8E%A5%E5%85%A5%E5%90%8E%E5%8F%B0/",
-      "author": "团子和蛋糕",
-      "avatar": "/assets/ziyuan/tx.webp"
-    },
-    {
-      "floor": 370,
-      "title": "吃个肉片都被骂：晚上散步的时候吃肉脯，遭陌生人鄙视的目光",
-      "created": "2026-08-05",
-      "updated": "2026-08-07",
-      "link": "https://090909.top/2026/08/05/%E5%90%83%E4%B8%AA%E8%82%89%E7%89%87%E9%83%BD%E8%A2%AB%E9%AA%82/",
-      "author": "他说",
-      "avatar": "https://090909.top/assets/images/avatar.webp"
-    },
-    {
-      "floor": 371,
-      "title": "到底是谁说 AI 无敌的：AI 集体降智后，DeepSeek 让我彻底摆烂",
-      "created": "2026-08-05",
-      "updated": "2026-08-07",
-      "link": "https://090909.top/2026/08/05/%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E8%AF%B4-AI-%E6%97%A0%E6%95%8C%E7%9A%84/",
-      "author": "他说",
-      "avatar": "https://090909.top/assets/images/avatar.webp"
-    },
-    {
-      "floor": 372,
-      "title": "Vercel 部署后全站 404 排查记",
-      "created": "2026-08-07",
-      "updated": "2026-08-07",
-      "link": "https://blog.amamo.top/posts/vercel-deploy-404/",
-      "author": "年华",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1323860289&s=640"
-    },
-    {
-      "floor": 373,
-      "title": "上线了：一个用 Web Audio + Three.js 做的 3D 音乐可视化页面",
-      "created": "2026-08-07",
-      "updated": "2026-08-07",
-      "link": "https://yujingblog.top/posts/3d-music-visualizer/",
-      "author": "YuJing的记忆终端",
-      "avatar": "https://www.yujingblog.top/assets/home/avatar.webp"
     }
   ]
 }
